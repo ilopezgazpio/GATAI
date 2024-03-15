@@ -18,19 +18,24 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      {% if site.show_downloads %}
+      <a href="{{ site.baseurl }}/index.html" class="btn">Aurkezpena</a>
+      <a href="{{ site.baseurl }}/norgara.html" class="btn">Nor gara</a>
+      <a href="{{ site.baseurl }}/ikerketa.html" class="btn">Ikerketa-ildoak</a>
+      <a href="{{ site.baseurl }}/argitalpenak.html" class="btn">Argitalpenak</a>
+      <a href="{{ site.baseurl }}/berriak.html" class="btn">Berriak</a>
+      {% endif %}
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">Deskribapen teknikoa</a>
       {% endif %}
-      {% if site.show_downloads %}
-        <a href="{{  site.github.repository_url }}" class="btn">Menua 1</a>
-        <a href="{{  site.github.repository_url }}" class="btn">Menua 2</a>
-	<a href="{{  site.github.repository_url }}" class="btn">Menua ...</a>
-      {% endif %}
+
     </header>
 
     <main id="content" class="main-content" role="main">
 
-      Edukia hemen
+
+       {{ content }}
+
 
       <footer class="site-footer">
         {% if site.github.is_project_page %}
