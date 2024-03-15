@@ -5,7 +5,7 @@
 
 {% seo %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap&family=Roboto:wght@400;700&family=Lato:wght@400;700&display=swap" as="style" type="text/css" crossorigin>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -19,14 +19,14 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.show_downloads %}
-      <a href="{{ site.baseurl }}/index.html" class="btn">Aurkezpena</a>
-      <a href="{{ site.baseurl }}/norgara.html" class="btn">Nor gara</a>
-      <a href="{{ site.baseurl }}/ikerketa.html" class="btn">Ikerketa-ildoak</a>
-      <a href="{{ site.baseurl }}/argitalpenak.html" class="btn">Argitalpenak</a>
-      <a href="{{ site.baseurl }}/berriak.html" class="btn">Berriak</a>
+      <a href="{{ site.baseurl }}/index.html" class="btn-header">Aurkezpena</a>
+      <a href="{{ site.baseurl }}/norgara.html" class="btn-header">Nor gara</a>
+      <a href="{{ site.baseurl }}/ikerketa.html" class="btn-header">Ikerketa-ildoak</a>
+      <a href="{{ site.baseurl }}/argitalpenak.html" class="btn-header">Argitalpenak</a>
+      <a href="{{ site.baseurl }}/berriak.html" class="btn-header">Berriak</a>
       {% endif %}
       {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">Deskribapen teknikoa</a>
+        <a href="{{ site.github.repository_url }}" class="btn-header">Deskribapen teknikoa</a>
       {% endif %}
 
     </header>
@@ -42,7 +42,7 @@
         <span class="site-footer-owner">
 	  <a href="{{ site.github.repository_url }}">
 	    {{ site.github.repository_name }}
-	  </a> 
+	  </a>
 	  is maintained by
 	  <a href="{{ site.github.owner_url }}">
 	    {{ site.github.owner_name }}
