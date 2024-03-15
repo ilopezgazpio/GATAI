@@ -1,0 +1,117 @@
+#+BIBLIOGRAPHY: mybib plain
+#+TITLE: Gatai TODO list
+#+AUTHOR: Inigo Lopez-Gazpio
+#+DATE: 2024
+#+EMAIL: inigo.lopez@ehu.eus
+#+LANGUAGE: en
+#+TODO: TODO IN-PROGRESS WAITING DONE
+
+#+LATEX_HEADER: \usepackage[a4paper,margin=0.5in,,headsep=1in]{geometry}
+#+LATEX_HEADER: \usepackage{fancyhdr}
+#+LATEX_HEADER: \usepackage{graphicx}
+#+LATEX_HEADER: \pagestyle{fancyplain}
+
+* Datuak
+
+Hainbat datu jasota, //home/ilopez077/scratch/Gatai/Data//
+
+** Albun ilustratuen grabazioak -elkarrizketa sakonak. (tresnak ebaluatzen)
+
+ - Audio formatua, 7 lagin
+ - 3 irakurle profil desberdinak eta galderak erantzun heziketa literarioaren inguruan (autoebaluazioa)
+ - Transkribatu
+ - Irakurle profilak estimatu / irakurle profile
+
+** Autobiografiak (tresnak ebaluatzen)
+ - Testua atera pdf eta word formatuetatik
+ - Kategorizatu
+   - 31 taldea: 40 lagin
+   - 32 taldea: 57 lagin
+
+** Irakaslegaien irakurketa ohituren Galdetegietako emaitzak (lantzen hasteko prest)
+ - Formatu Tabulatua errazena lan egiteko
+
+
+** Eskuzko behaketak (lantzen hasita tresnak ebaluatzen)
+ - EHUko ikasleak: 150 jpg orrialde (digitalizatuta)
+ - Ikastetxeetako irakasleak: 22 jpg orrialde (digitalizatuta)
+
+
+** Albumen interpretazioak (ebaluatu gabe)
+ - Word,odt,pdf testua kategorizatzeko
+   - 31 taldea
+     - 1 irakurketa: 39
+     - 2 irakurketa: 35
+   - 32 taldea hemendik
+     - 1 irakurketa: 54
+     - 2 irakurketa: 58
+   - 32 taldea piztiak
+     - 1 irakurketa: 54
+     - 2 irakurketa: 58
+
+
+
+* Tresna erabilgarriak
+
+ - [ ] pdf -> jpg
+ - [ ] $convert -verbose -density 600 -trim galdeketa.pdf -quality 100 galdeketa.jpg$
+ - [ ] OCR jpg -> txt
+ - [ ] $ffmpeg -i inputFilename.m4a OutputFilename.wav
+ - [ ] $ffmpeg -i HIGH_KB.wav -ar 8000 -ac 1 -c:a pcm_s16le LOW_KB.wav
+
+* Arazoak
+
+
+
+
+
+
+
+#+LATEX: \bibliography{mybib} 
+#+LATEX_HEADER: \bibliographystyle{plain} 
+
+
+#+BEGIN_COMMENT
+
+Instructions for agenda
+========================
+Agenda menu is accesed with Alt x -> org-agenda
+
+Convert heading in TODO:    Ctr c -> Ctr t
+
+Add Scheduled attribute:    Ctr c -> Ctr s
+Add Deadline attribute:     Ctr c -> Ctr d
+Add Tag :                   Ctr c -> Ctr q
+Add Property attribute:     Ctr c -> Ctr x -> p
+
+Add file to agenda          Ctr c -> [
+Remove file from agenda     Ctr c -> ]
+
+
+Dates are added with        Ctr c -> .
++1 day                      Mayus -> right
++1 unit                     Mayus -> up
+
+Instructions to cite papers
+============================
+Use \cite{} or through (org-reftex-citation) to cite papers in the mybib.bib file
+
+Instructions to compile
+========================
+ToPdf: Ctr c -> Ctr e -> l -> p
+toLatex: Ctr c -> Ctr e -> l -> l 
+
+Instructions to compile in different languages
+==============================================
+Add in the beginning
+
+#+LATEX_HEADER: \usepackage[basque]{babel}
+#+LANGUAGE: eu
+
+#+LATEX_HEADER: \usepackage[spanish]{babel}
+#+LANGUAGE: es
+
+#+END_COMMENT
+
+
+
