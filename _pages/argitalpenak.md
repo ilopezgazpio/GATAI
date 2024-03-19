@@ -1,7 +1,7 @@
 ---
 layout: default
 title: GATAI
-permalink: /argitalpenak.html
+permalink: /argitalpenak
 ---
 
-Argitalpenak
+Berehala emango dugu proiektuarekin lotutako argitalpenen berri.

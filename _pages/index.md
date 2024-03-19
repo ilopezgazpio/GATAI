@@ -1,7 +1,7 @@
 ---
 layout: default
 title: GATAI
-permalink: /index.html
+permalink: /
 ---
 
 <b><i>GATAI</i></b> Euskal Herriko Unibertsitateko hezkuntza berrikuntza proiektu bat da, IKDi<sup>3</sup> hezkuntza eredua jarraitzen duena (IKDi<sup>3</sup> 23-31 (Euskal Herriko Unibertsitatea, UPV/EHU)).

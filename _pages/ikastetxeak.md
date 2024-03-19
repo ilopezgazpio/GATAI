@@ -1,7 +1,6 @@
 ---
 layout: default
 title: GATAI
-permalink: /norgara
+permalink: /ikastetxeak
 ---
 
-Nor gara

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: GATAI
-permalink: /berriak.html
+permalink: /berriak
 ---
 
-Berriak
+Berehala emango dugu proiektuarekin lotutako albisteen berri.
