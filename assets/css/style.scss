@@ -156,12 +156,12 @@ $button-header-color-selected: #000000 !default;
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 10px;
+    gap: 3px;
 }
 
 .horizontal-banner img {
-  width: 200px;
-  height: auto;
+  width: auto;
+  height: 150px;
   object-fit: cover;
   border: 0px solid #000;
 }
