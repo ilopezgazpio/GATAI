@@ -29,11 +29,11 @@ $button-header-color-selected: #000000 !default;
     font-family: 'EHUSans';
 
     @include large {
-      font-size: 3.25rem;
+      font-size: 2.5rem;
     }
 
     @include medium {
-	font-size: 2.25rem;
+	font-size: 2rem;
     }
 
     @include small {
