@@ -20,50 +20,6 @@ $button-header-color-selected: #000000 !default;
   font-style: normal;
 }
 
-
-/* Redefine project-name and tag-line*/
-.project-name {
-    margin-top: 3.5rem;
-    margin-bottom: 0.1rem;
-    margin-left: 0;
-    margin-right: 20%;
-    font-family: 'EHUSans';
-
-    @include large {
-      font-size: 2.5rem;
-    }
-
-    @include medium {
-	font-size: 2rem;
-    }
-
-    @include small {
-	font-size: 1.75rem;
-    }
-}
-
-.project-tagline {
-    margin-bottom: 2rem;
-    margin-left: 0;
-    margin-right: 20%;
-    font-weight: normal;
-    opacity: 0.7;
-    font-family: 'EHUSans';
-
-    @include large {
-	font-size: 1.5rem;
-    }
-
-    @include medium {
-	font-size: 1.15rem;
-    }
-
-    @include small {
-	font-size: 1rem;
-    }
-}
-
-
 /* Redefine page header */
 .page-header {
     display: inline-block;
@@ -91,65 +47,63 @@ $button-header-color-selected: #000000 !default;
 }
 
 
-/* Redefine navigation-menu buttons */
-
-.navigation-menu{
-    display: inline-block;
-    width: 90%;
+/* Redefine project-name and tag-line*/
+.project-name {
+    float: left;
+    margin-top: 4rem;
+    margin-bottom: 0.1rem;
     margin-left: 10%;
-    text-align: center;
-}
+    margin-right: 0;
+    font-family: 'EHUSans';
 
+    @include large {
+      font-size: 1.25rem;
+    }
 
-/* Redefine header logo*/
-.header-logo-image {
-    float:left;
-    margin-right: 0rem;
-    margin-left: 20%;
-    border: 0px solid #000000;
-    border-radius: 50%;
-    width: 15rem;
-    height: 15rem;
-    transition: transform 0.3s ease;
+    @include medium {
+	font-size: 1rem;
+    }
 
-    &:hover {
-	transform: scale(1.1);
+    @include small {
+	font-size: 1rem;
     }
 }
 
-/* Redefine menu area */
-.navigation-menu {
-    margin-top: 0.5rem;
-    margin-left: 0rem;
+.navigation-buttons {
+    float: right;
+    margin-top : 5rem;
+    margin-right: 30%;
 }
 
-
 .btn-header {
+    margin-top : 1rem;
     margin-bottom: 1rem;
-    padding-left: 1rem;
+    padding: 6rem 6rem;
     color: $button-header-color;
-    background-color: rgba(255, 255, 255, 0.08);
+    background-color: rgba(255, 255, 255, 0.1);
     border-color: rgba(255, 255, 255, 0.2);
     border-style: solid;
     border-width: 0.5px;
     border-radius: 0.3rem;
-    transition: color 0.5s, background-color 0.5s, border-color 0.5s;
+    transition: color 0.2s, background-color 0.2s, border-color 0.2s;
     font-family: 'EHUSans';
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 
   &:hover {
     color: $button-header-color-selected;
     text-decoration: none;
-    background-color: rgba(255, 255, 255, 0.2);
-    border-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(255, 255, 255, 0.75);
+    text-decoration-line: underline;
+    text-decoration-thickness: 2px;
+    text-decoration-color: $header-heading-color ;
   }
 
   + .btn-header {
-    margin-left: 0.5rem;
+    margin-left: 1rem;
   }
 
   @include large {
-    padding: 0.25rem 0.25rem;
+    padding: 0.5rem 0.5rem;
   }
 
   @include medium {
@@ -171,6 +125,59 @@ $button-header-color-selected: #000000 !default;
 }
 
 
+/* Define banner */
+.navigation-banner{
+    display: inline-block;
+    width: 100%;
+    margin-left: 0%;
+    text-align: center;
+}
+
+
+/* Redefine header logo*/
+.header-logo-image {
+    margin-right: 0;
+    margin-left: 0%;
+    padding-left: 0;
+    padding-right: 0;
+    border: 0px solid #000000;
+    border-radius: 50%;
+    width: 11rem;
+    height: 11rem;
+    transition: transform 0.5s ease;
+
+    &:hover {
+	transform: scale(1.1);
+    }
+}
+
+/* Redefine menu area */
+.navigation-banner {
+    margin-top: 0rem;
+    margin-left: 0rem;
+}
+
+
+.project-tagline {
+    margin-bottom: 2rem;
+    margin-left: 0;
+    margin-right: 20%;
+    font-weight: normal;
+    opacity: 0.7;
+    font-family: 'EHUSans';
+
+    @include large {
+	font-size: 1.5rem;
+    }
+
+    @include medium {
+	font-size: 1.15rem;
+    }
+
+    @include small {
+	font-size: 1rem;
+    }
+}
 
 
 /* Redefine content paragraphs */
