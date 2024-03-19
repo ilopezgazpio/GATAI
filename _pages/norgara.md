@@ -33,7 +33,7 @@ Gai gatazkatsuen inguruan lan egiten du, hala nola memoria historikoa edo genero
 <img src="http://www.gatai.eus/assets/img/AmaiaSerrano.jpg" alt="Amaia Serrano-Mariezkurrena" class="author-image">
 Hizkuntzaren eta Literaturaren Didaktikako irakaslea da Euskal Herriko Unibertsitatean (UPV/EHU).
 Lehen Hezkuntzan eta Atzerriko Hizkuntzan diplomatua eta Euskal Filologian lizentziatua. UPV/EHUko Literatura Konparatua eta Ikasketa Literarioak masterra egin zuen
-(ikasle onenaren saria eskuratuta) eta doktorego programa berean defendatu zuen 36ko Gerra euskal nobelagintzan: memoria ikerketak narratologia kulturalaren ikuspegitik tesia, UPV/EHUren sari berezia jaso zuena.
+(ikasle onenaren saria eskuratuta) eta doktorego programa berean defendatu zuen 36ko Gerra euskal nobelagintzan: <i>memoria ikerketak narratologia kulturalaren ikuspegitik</i> tesia, UPV/EHUren sari berezia jaso zuena.
 </p>
 <p>
 LAIDA ikerketa taldeko kide izan da urte askoan eta HARIAK ikerketa taldeko kide da orain. Horrez gain, UPV/EHUko ikerketa proiektu ugaritan hartu du parte.
@@ -42,7 +42,8 @@ Doktorego aurreko bi egonaldi egin ditu, UPPAn (Baiona) eta Aarhus Universistet-
 </p>
 <p>
 Heziketa literarioari buruzko irakasleentzako prestakuntza ikastaro ugari eman ditu EIBZn, Iralen, Galtzagorri Elkartean, UEUn eta Prest-Gara ikastaroetan.
-Haur eta Gazte literaturari buruzko ikerketa artikuluak eta liburu kapituluak idatzi ditu (eleberrigintzari, komikigintzari eta album ilustratuei buruz). Dibulgazioan ere aritu da, bai Argia aldizkariko liburu kritikan, baita HikHasi eta HaziHezi aldizkari pedagogikoetan ere.
+Haur eta Gazte literaturari buruzko ikerketa artikuluak eta liburu kapituluak idatzi ditu (eleberrigintzari, komikigintzari eta album ilustratuei buruz).
+Dibulgazioan ere aritu da, bai Argia aldizkariko liburu kritikan, baita <i>HikHasi</i> eta <i>HaziHezi</i> aldizkari pedagogikoetan ere.
 </p>
 <b>ORCID ID</b>: <a href="https://orcid.org/0000-0001-5336-6311"> https://orcid.org/0000-0001-5336-6311 </a>
 </div>
@@ -56,8 +57,8 @@ Haur eta Gazte literaturari buruzko ikerketa artikuluak eta liburu kapituluak id
 Nerea Permachen ibilbide akademikoa irakasleen heziketa literarioari loturiko ikerlerroari lotuta dago.
 Gaitasun literarioa Lehen Hezkuntzan; Irakurleak trebatzeko bidean (2022) izeneko tesiaren ondorio nagusia ikastetxeetako irakasleen hezkuntza literarioan dagoen formakuntza hutsune handia izan da.
 Horregatik, ahulgune horiek identifikatuta, proiektu honen bidez irakasleen eta irakaslegaien beharrei erantzuten hasteko ezinbesteko ekarpena izan da berea.
-Horrez gain, irakurketa literarioa Lehen Hezkuntzan nolakoa den ere aztertu izan du artikuluetan (Permach eta Álvarez, 2020; Permach, Alvarez eta Etxaniz, 2023),
-baita irakurketa aukeraketaren inguruko auziari eta eskolako literatur kanonari buruz ere (Permach eta Álvarez, 2019).
+Horrez gain, irakurketa literarioa Lehen Hezkuntzan nolakoa den ere aztertu izan du artikuluetan,
+baita irakurketa aukeraketaren inguruko auziari eta eskolako literatur kanonari buruz ere.
 </p>
 <b>ORCID ID</b>: <a href="https://orcid.org/0000-0002-1238-457X">https://orcid.org/0000-0002-1238-457X</a>
 </div>
@@ -91,7 +92,7 @@ Haiei esker, ikerketa historikoa eta haien didaktika uztartzen ditu. Gizartean g
 <div>
 <p>
 <img src="http://www.gatai.eus/assets/img/inigo.jpg" alt="Inigo Lopez-Gazpio" class="author-image">
-Ingeniari informatikoa eta Hizkuntzaren azterketa eta prozesamenduan master eta doktorea.
+Ingeniari informatikoa eta Hizkuntzaren Azterketa eta Prozesamenduan (HAP) master eta doktorea.
 Egun Euskal Herriko Unibertsitateko (UPV/EHU) irakasle, Konputazio Zientziak eta Adimen Artifiziala (KZAA) saileko kide eta UEUkide da.
 Ixa ikerketa taldean eta HiTZ teknologia zentroan dihardu ikerketan espazio semantikoen eta hizkuntza-eredu handien inguruan.
 Eskolak ematen ditu EHUko informatika fakultatean (Donostia) adimen artifizialarekin lotura duten irakasgaietan.
