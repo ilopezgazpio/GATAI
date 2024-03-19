@@ -151,10 +151,19 @@ $button-header-color-selected: #000000 !default;
     }
 }
 
-/* Redefine menu area */
-.navigation-banner {
-    margin-top: 0rem;
-    margin-left: 0rem;
+.horizontal-banner {
+    margin-top: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.horizontal-banner img {
+  width: 200px;
+  height: auto;
+  object-fit: cover;
+  border: 0px solid #000;
 }
 
 
