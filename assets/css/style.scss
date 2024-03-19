@@ -158,29 +158,19 @@ $button-header-color-selected: #000000 !default;
 }
 
 
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { margin-top: 2rem; margin-bottom: 1rem; font-weight: bold; color: $header-heading-color; }
 .project-tagline {
     margin-bottom: 2rem;
     margin-left: 0;
     margin-right: 20%;
-    font-weight: normal;
+    font-weight: bold;
     opacity: 0.7;
     font-family: 'EHUSans';
-
-    @include large {
-	font-size: 1.5rem;
-    }
-
-    @include medium {
-	font-size: 1.15rem;
-    }
-
-    @include small {
-	font-size: 1rem;
-    }
 }
 
 
 /* Redefine content paragraphs */
 p {
-  font-family: 'EHUSans';
+    font-family: 'EHUSans';
+    text-align: justify;
 }
