@@ -23,9 +23,10 @@ $button-header-color-selected: #000000 !default;
 
 /* Redefine project-name and tag-line*/
 .project-name {
-    margin-top: 0;
+    margin-top: 3.5rem;
     margin-bottom: 0.1rem;
     margin-left: 0;
+    margin-right: 20%;
     font-family: 'EHUSans';
 
     @include large {
@@ -44,6 +45,7 @@ $button-header-color-selected: #000000 !default;
 .project-tagline {
     margin-bottom: 2rem;
     margin-left: 0;
+    margin-right: 20%;
     font-weight: normal;
     opacity: 0.7;
     font-family: 'EHUSans';
@@ -65,8 +67,11 @@ $button-header-color-selected: #000000 !default;
 /* Redefine page header */
 .page-header {
     display: inline-block;
-    width: 80%;
-    margin-left: 10%;
+    width: 100%;
+    margin: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    padding: 0%;
     color: $header-heading-color;
     text-align: center;
     background-color: $header-bg-color;
@@ -86,24 +91,57 @@ $button-header-color-selected: #000000 !default;
 }
 
 
-/* Redefine header buttons */
+/* Redefine navigation-menu buttons */
+
+.navigation-menu{
+    display: inline-block;
+    width: 90%;
+    margin-left: 10%;
+    text-align: center;
+}
+
+
+/* Redefine header logo*/
+.header-logo-image {
+    float:left;
+    margin-right: 0rem;
+    margin-left: 20%;
+    border: 0px solid #000000;
+    border-radius: 50%;
+    width: 15rem;
+    height: 15rem;
+    transition: transform 0.3s ease;
+
+    &:hover {
+	transform: scale(1.1);
+    }
+}
+
+/* Redefine menu area */
+.navigation-menu {
+    margin-top: 0.5rem;
+    margin-left: 0rem;
+}
+
 
 .btn-header {
-  margin-bottom: 1rem;
-  color: $button-header-color;
-  background-color: rgba(255, 255, 255, 0.08);
-  border-color: rgba(255, 255, 255, 0.2);
-  border-style: solid;
-  border-width: 0.5px;
-  border-radius: 0.3rem;
-  transition: color 0.5s, background-color 0.5s, border-color 0.5s;
-  font-family: 'EHUSans';
+    margin-bottom: 1rem;
+    padding-left: 1rem;
+    color: $button-header-color;
+    background-color: rgba(255, 255, 255, 0.08);
+    border-color: rgba(255, 255, 255, 0.2);
+    border-style: solid;
+    border-width: 0.5px;
+    border-radius: 0.3rem;
+    transition: color 0.5s, background-color 0.5s, border-color 0.5s;
+    font-family: 'EHUSans';
+    font-size: 1.5rem;
 
   &:hover {
     color: $button-header-color-selected;
     text-decoration: none;
     background-color: rgba(255, 255, 255, 0.2);
-    border-color: rgba(255, 255, 255, 0.3);
+    border-color: rgba(0, 0, 0, 0.5);
   }
 
   + .btn-header {
@@ -133,21 +171,6 @@ $button-header-color-selected: #000000 !default;
 }
 
 
-/* Redefine header logo*/
-.header-logo-image {
-    float:left;
-    margin-right: 0rem;
-    margin-left: 10%;
-    border: 3px solid #000000;
-    border-radius: 50%;
-    width: 13rem;
-    height: 13rem;
-    transition: transform 0.3s ease;
-
-    &:hover {
-	transform: scale(1.1);
-    }
-}
 
 
 /* Redefine content paragraphs */
