@@ -10,12 +10,23 @@ $button-header-color-selected: #000000 !default;
 
 @import "{{ site.theme }}";
 
+/* Redefine font types*/
+@font-face {
+  font-family: 'EHUSans';
+  src: url('https://github.com/ilopezgazpio/GATAI/blob/main/assets/fonts/EHUSans/EHUSans-Regular.otf') format('otf'),
+       url('https://github.com/ilopezgazpio/GATAI/blob/main/assets/fonts/EHUSans/EHUSans-Bold.otf') format('otf'),
+       url('https://github.com/ilopezgazpio/GATAI/blob/main/assets/fonts/EHUSans/EHUSans-Black.otf') format('otf');
+  font-weight: 400;
+  font-style: normal;
+}
+
+
 /* Redefine project-name and tag-line*/
 .project-name {
     margin-top: 0;
     margin-bottom: 0.1rem;
     margin-left: 0;
-    font-family: 'Roboto';
+    font-family: 'EHUSans';
 
     @include large {
       font-size: 3.25rem;
@@ -35,7 +46,7 @@ $button-header-color-selected: #000000 !default;
     margin-left: 0;
     font-weight: normal;
     opacity: 0.7;
-    font-family: 'Lato';
+    font-family: 'EHUSans';
 
     @include large {
 	font-size: 1.5rem;
@@ -86,6 +97,7 @@ $button-header-color-selected: #000000 !default;
   border-width: 0.5px;
   border-radius: 0.3rem;
   transition: color 0.5s, background-color 0.5s, border-color 0.5s;
+  font-family: 'EHUSans';
 
   &:hover {
     color: $button-header-color-selected;
@@ -121,6 +133,7 @@ $button-header-color-selected: #000000 !default;
 }
 
 
+/* Redefine header logo*/
 .header-logo-image {
     float:left;
     margin-right: 0rem;
@@ -134,4 +147,10 @@ $button-header-color-selected: #000000 !default;
     &:hover {
 	transform: scale(1.1);
     }
+}
+
+
+/* Redefine content paragraphs */
+p {
+  font-family: 'EHUSans';
 }
