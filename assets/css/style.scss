@@ -76,18 +76,15 @@ $button-header-color-selected: #000000 !default;
 }
 
 .btn-header {
-    margin-top : 1rem;
-    margin-bottom: 1rem;
-    padding: 6rem 6rem;
     color: $button-header-color;
     background-color: rgba(255, 255, 255, 0.1);
     border-color: rgba(255, 255, 255, 0.2);
     border-style: solid;
-    border-width: 0.5px;
-    border-radius: 0.3rem;
+    border-width: 0.25rem;
+    border-radius: 0.1rem;
     transition: color 0.2s, background-color 0.2s, border-color 0.2s;
     font-family: 'EHUSans';
-    font-size: 1.2rem;
+    font-size: 1.1rem;
 
   &:hover {
     color: $button-header-color-selected;
@@ -99,15 +96,15 @@ $button-header-color-selected: #000000 !default;
   }
 
   + .btn-header {
-    margin-left: 1rem;
+      margin-left: 0.1rem;
   }
 
   @include large {
-    padding: 0.5rem 0.5rem;
+    padding: 0.05rem 0.05rem;
   }
 
   @include medium {
-    padding: 0.25rem 0.5rem;
+    padding: 0.1rem 0.1rem;
     font-size: 0.9rem;
   }
 
@@ -125,19 +122,10 @@ $button-header-color-selected: #000000 !default;
 }
 
 
-/* Define banner */
-.navigation-banner{
-    display: inline-block;
-    width: 100%;
-    margin-left: 0%;
-    text-align: center;
-}
-
-
 /* Redefine header logo*/
 .header-logo-image {
     margin-right: 0;
-    margin-left: 5%;
+    margin-left: 10%;
     padding-left: 0;
     padding-right: 0;
     border: 0px solid #000000;
