@@ -33,7 +33,7 @@ Gai gatazkatsuen inguruan lan egiten du, hala nola memoria historikoa edo genero
 <img src="http://www.gatai.eus/assets/img/AmaiaSerrano.jpg" alt="Amaia Serrano-Mariezkurrena" class="author-image">
 Hizkuntzaren eta Literaturaren Didaktikako irakaslea da Euskal Herriko Unibertsitatean (UPV/EHU).
 Lehen Hezkuntzan eta Atzerriko Hizkuntzan diplomatua eta Euskal Filologian lizentziatua. UPV/EHUko Literatura Konparatua eta Ikasketa Literarioak masterra egin zuen
-(ikasle onenaren saria eskuratuta) eta doktorego programa berean defendatu zuen 36ko Gerra euskal nobelagintzan: <i>memoria ikerketak narratologia kulturalaren ikuspegitik</i> tesia, UPV/EHUren sari berezia jaso zuena.
+(ikasle onenaren saria eskuratuta) eta doktorego programa berean defendatu zuen <i>36ko Gerra euskal nobelagintzan: memoria ikerketak narratologia kulturalaren ikuspegitik</i> tesia, UPV/EHUren sari berezia jaso zuena.
 </p>
 <p>
 LAIDA ikerketa taldeko kide izan da urte askoan eta HARIAK ikerketa taldeko kide da orain. Horrez gain, UPV/EHUko ikerketa proiektu ugaritan hartu du parte.
@@ -43,7 +43,7 @@ Doktorego aurreko bi egonaldi egin ditu, UPPAn (Baiona) eta Aarhus Universistet-
 <p>
 Heziketa literarioari buruzko irakasleentzako prestakuntza ikastaro ugari eman ditu EIBZn, Iralen, Galtzagorri Elkartean, UEUn eta Prest-Gara ikastaroetan.
 Haur eta Gazte literaturari buruzko ikerketa artikuluak eta liburu kapituluak idatzi ditu (eleberrigintzari, komikigintzari eta album ilustratuei buruz).
-Dibulgazioan ere aritu da, bai Argia aldizkariko liburu kritikan, baita <i>HikHasi</i> eta <i>HaziHezi</i> aldizkari pedagogikoetan ere.
+Dibulgazioan ere aritu da, bai <i>Argia</i> aldizkariko liburu kritikan, baita <i>HikHasi</i> eta <i>HaziHezi</i> aldizkari pedagogikoetan ere.
 </p>
 <b>ORCID ID</b>: <a href="https://orcid.org/0000-0001-5336-6311"> https://orcid.org/0000-0001-5336-6311 </a>
 </div>
@@ -55,7 +55,7 @@ Dibulgazioan ere aritu da, bai Argia aldizkariko liburu kritikan, baita <i>HikHa
 <p>
 <img src="http://www.gatai.eus/assets/img/NereaPermach.jpg" alt="NereaPermach" class="author-image">
 Nerea Permachen ibilbide akademikoa irakasleen heziketa literarioari loturiko ikerlerroari lotuta dago.
-Gaitasun literarioa Lehen Hezkuntzan; Irakurleak trebatzeko bidean (2022) izeneko tesiaren ondorio nagusia ikastetxeetako irakasleen hezkuntza literarioan dagoen formakuntza hutsune handia izan da.
+<i>Gaitasun literarioa Lehen Hezkuntzan; Irakurleak trebatzeko bidean</i> (2022) izeneko tesiaren ondorio nagusia ikastetxeetako irakasleen hezkuntza literarioan dagoen formakuntza hutsune handia izan da.
 Horregatik, ahulgune horiek identifikatuta, proiektu honen bidez irakasleen eta irakaslegaien beharrei erantzuten hasteko ezinbesteko ekarpena izan da berea.
 Horrez gain, irakurketa literarioa Lehen Hezkuntzan nolakoa den ere aztertu izan du artikuluetan,
 baita irakurketa aukeraketaren inguruko auziari eta eskolako literatur kanonari buruz ere.
@@ -74,7 +74,7 @@ baita irakurketa aukeraketaren inguruko auziari eta eskolako literatur kanonari 
 Euskal Herriko Unibertsitateko Letren Fakultatean Historian lizentziatu (2010), EHU eta Madrilgo Autonoma Unibertsitatean (UAM)
 Historia Garaikideko masterrean ikasle hoberenari (2011) saria eskuratu eta Derrigorrezko Bigarren Hezkuntzako eta Batxillergoko,
 Lanbide Heziketako eta Hizkuntzen Irakaskuntzako irakasleen prestakuntza unibertsitate masterra (EHU, 2017) burutu ditu.
-Historia Garaikidean doktorea, 2019. urtean Le Petit Paris. Presencia e influencia francesa en la configuración del San Sebastián moderno (1864-1920) nazioarteko doktorego tesia  aurkeztu zuen.
+Historia Garaikidean doktorea, 2019. urtean <i>Le Petit Paris. Presencia e influencia francesa en la configuración del San Sebastián moderno</i> (1864-1920) nazioarteko doktorego tesia  aurkeztu zuen.
 </p>
 <p>
 Gaur egun, Donostiako EHUko Hezkuntza Filosofia eta Antropologiako Haur Hezkuntzako Graduko koordinatzaile eta Irakasle atxikia da Matematika, Zientzia Esperimental eta Gizarte Zientzien Didaktika sailean. Era berean, Valentin de Foronda Historia sozialeko Institutuko, Red 14 Gizarte Zientzien i(ra)kaskuntza ikerketa sareko eta OEPEko (Observatorio de Educación Patrimonial en España) partaide da.
