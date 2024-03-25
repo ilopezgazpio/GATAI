@@ -125,13 +125,13 @@ $button-header-color-selected: #000000 !default;
 /* Redefine header logo*/
 .header-logo-image {
     margin-right: 0;
-    margin-left: 10%;
+    margin-left: 0%;
     padding-left: 0;
     padding-right: 0;
     border: 0px solid #000000;
-    border-radius: 50%;
-    width: 28rem;
-    height: 11rem;
+    border-radius: 0%;
+    width: auto;
+    height: 7rem;
     transition: transform 0.5s ease;
 
     &:hover {
