@@ -5,14 +5,28 @@ permalink: /berriak
 ---
 
 <h2 class="project-tagline">X sare sozialean aurkituko gaituzu #GATAI traolarekin</h2>
-<h3 class="project-tagline">Azken berriak:</h3>
 
-<ul>
+<div class="posts-list">
+
     {% for post in site.posts %}
-        <li>
-	    <img src="{{ post.image }}" alt="{{ post.title }}" style="width: 100px; height: auto;">
-            <a href=" {{ post.url }} "> {{ post.title }} ({{ post.date | date: "%Y/%m/%d" }}) </a>
-	   {{ post.excerpt }}
-        </li>
+
+    <hr>
+
+    <div class="post">
+
+    	  <a href=" {{ post.url }} ">
+
+              {{ post.title }} ({{ post.date | date: "%Y/%m/%d" }})
+	      
+	      <img src="{{ post.image }}" alt="{{ post.title }}" class="post-image">
+
+
+	  </a>
+	  <p>
+		{{ post.excerpt }}
+	  </p>
+
+	</div>
     {% endfor %}
-</ul>
+
+</div>

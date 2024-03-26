@@ -202,3 +202,25 @@ p {
     border: 0.5px solid black;
     object-fit: cover;
 }
+
+/* Define style for posts */
+.posts-list {
+    list-style: none;
+    margin-top: 2rem;
+    margin-bottom: 20px; /* Adds space between posts */
+}
+
+.post {
+    margin-bottom: 20px; /* Adjust the space between posts */
+    text-align: center; /* Center the content of each post */
+}
+
+.post-image {
+    width: 500px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.post-title {
+    /* Additional styling for the post title if needed */
+}
