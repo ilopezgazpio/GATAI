@@ -22,7 +22,6 @@ $button-header-color-selected: #000000 !default;
 
 /* Redefine page header */
 .page-header {
-    display: inline-block;
     width: 100%;
     margin: 0%;
     margin-left: 0%;
@@ -32,18 +31,11 @@ $button-header-color-selected: #000000 !default;
     text-align: center;
     background-color: $header-bg-color;
     background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3px;
 
-    @include large {
-	padding: 1rem 1rem;
-    }
-
-    @include medium {
-	padding: 1rem 1rem;
-    }
-
-    @include small {
-	padding: 1rem 1rem;
-    }
 }
 
 
@@ -55,24 +47,25 @@ $button-header-color-selected: #000000 !default;
     margin-left: 10%;
     margin-right: 0;
     font-family: 'EHUSans';
-
-    @include large {
-      font-size: 1.25rem;
-    }
-
-    @include medium {
-	font-size: 1rem;
-    }
-
-    @include small {
-	font-size: 1rem;
-    }
+    font-size: 1rem;
 }
 
 .navigation-buttons {
     float: right;
     margin-top : 5rem;
-    margin-right: 30%;
+    margin-bottom: 1rem;
+
+    @include large {
+        margin-right: 15%;
+    }
+
+    @include medium {
+        margin-right: 5%;
+    }
+
+    @include small {
+        margin-right: 0%;
+    }
 }
 
 .btn-header {
@@ -84,7 +77,19 @@ $button-header-color-selected: #000000 !default;
     border-radius: 0.1rem;
     transition: color 0.2s, background-color 0.2s, border-color 0.2s;
     font-family: 'EHUSans';
-    font-size: 1.1rem;
+
+    @include large {
+	font-size: 1.1rem;
+    }
+
+    @include medium {
+	font-size: 0.9rem;
+    }
+
+    @include small {
+	font-size: 0.8rem;
+    }
+
 
   &:hover {
     color: $button-header-color-selected;
@@ -109,7 +114,6 @@ $button-header-color-selected: #000000 !default;
   }
 
   @include small {
-    display: block;
     width: 100%;
     padding: 0.75rem;
     font-size: 0.9rem;
@@ -131,7 +135,7 @@ $button-header-color-selected: #000000 !default;
     border: 0px solid #000000;
     border-radius: 0%;
     width: auto;
-    height: 7rem;
+    height: 6rem;
     transition: transform 0.5s ease;
 
     &:hover {
