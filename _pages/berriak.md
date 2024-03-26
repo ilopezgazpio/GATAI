@@ -10,12 +10,9 @@ permalink: /berriak
 <ul>
     {% for post in site.posts %}
         <li>
-	<p>
+	    <img src="{{ post.image }}" alt="{{ post.title }}" style="width: 100px; height: auto;">
             <a href=" {{ post.url }} "> {{ post.title }} ({{ post.date | date: "%Y/%m/%d" }}) </a>
-	</p>
-	<p>
 	   {{ post.excerpt }}
-	</p>
         </li>
     {% endfor %}
 </ul>
