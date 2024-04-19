@@ -42,7 +42,7 @@ https://urdanetahi.hezkuntza.net/eu/inicio2
 </a>
 
 <a href="https://urdanetahi.hezkuntza.net/eu/inicio2" target="_blank">
-<img src="https://urdanetahi.hezkuntza.net/image/company_logo?img_id=4233447&t=1711422216116" alt="Urdaneta Ikastetxea (Ordizia)" class="entity-image">
+<img src="http://www.gatai.eus/assets/img/urdaneta1.png" alt="Urdaneta Ikastetxea (Ordizia)" class="entity-image">
 </a>
 
 | LH 5 eta 6 mailako argazkiak |
