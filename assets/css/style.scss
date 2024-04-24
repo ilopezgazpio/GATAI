@@ -255,3 +255,25 @@ p {
 .post-title {
     /* Additional styling for the post title if needed */
 }
+
+
+/* Define image-gallery for ikastetxeak */
+
+.image-gallery {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 10px;
+  margin: 20px 0;
+}
+
+.image-gallery img {
+  width: 100%;
+  height: auto;
+  transition: transform 0.2s;
+}
+
+.image-gallery img:hover {
+  transform: scale(1.05);
+  cursor: pointer;
+}
+
