@@ -78,7 +78,7 @@ https://www.jakintza.eus/
 {% endfor %}
 </div>
 
-<h2 class="project-tagline" style="margin-top: 4rem;" >Samaniego Herri Ikastetxea (Tolosa) - LH5ko irudiak </h2>
+<h2 class="project-tagline" style="margin-top: 4rem;" >Samaniego Herri Ikastetxea (Tolosa) - LH5eko irudiak </h2>
 <div id="Samaniego-LH5" class="image-gallery">
   {% for image in site.static_files %}
      {% if image.path contains 'img/ikastetxeak/Samaniego/lh5' %}
