@@ -42,7 +42,7 @@ $button-header-color-selected: #000000 !default;
 /* Redefine project-name and tag-line*/
 .project-name {
     float: left;
-    margin-top: 4rem;
+    margin-top: 1rem;
     margin-bottom: 0.1rem;
     margin-left: 10%;
     margin-right: 0;
@@ -193,7 +193,8 @@ $button-header-color-selected: #000000 !default;
 /* Redefine {{ content }} header color */
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { margin-top: 2rem; margin-bottom: 1rem; font-weight: bold; color: $header-heading-color; }
 .project-tagline {
-    margin-bottom: 2rem;
+    margin-top:2rem;
+    margin-bottom: 0.25rem;
     margin-left: 0;
     margin-right: 20%;
     font-weight: bold;
@@ -223,11 +224,10 @@ p {
 
 /* Define author biography images */
 .entity-image {
-    float: left;
-    width: 500px;
+    width: 350px;
     height: auto;
     margin-right: 15px;
-    margin-bottom: 15px;
+    margin-bottom: 5px;
     border: 0.5px solid black;
     object-fit: cover;
 }
@@ -264,7 +264,7 @@ p {
 
 .image-gallery {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(5, 1fr);
   grid-gap: 10px;
   margin: 20px 0;
 }
@@ -276,7 +276,7 @@ p {
 }
 
 .image-gallery img:hover {
-  transform: scale(1.02);
+  transform: scale(1.05);
   cursor: pointer;
 }
 
