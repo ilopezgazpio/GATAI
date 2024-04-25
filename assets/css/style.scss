@@ -237,17 +237,20 @@ p {
 /* Define style for posts */
 .posts-list {
     list-style: none;
-    margin-top: 2rem;
+    margin-top: 3rem;
     margin-bottom: 20px; /* Adds space between posts */
 }
 
 .post {
-    margin-bottom: 20px; /* Adjust the space between posts */
+    margin-top: 3rem;
+    margin-bottom: 3rem; /* Adjust the space between posts */
     text-align: center; /* Center the content of each post */
 }
 
 .post-image {
-    width: 450px;
+    margin-top: 30px;
+    margin-bottom:30px;
+    width: 400px;
     height: auto;
     margin-bottom: 10px;
 }
