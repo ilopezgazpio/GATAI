@@ -16,8 +16,8 @@ https://samaniego-tolosa.hezkuntza.net/eu/hasiera
 <img src="https://samaniego-tolosa.hezkuntza.net/image/layout_set_logo?img_id=6005803&t=1711457823930" alt="Samaniego Herri Ikastetxea" class="entity-image">
 </a>
 
-| <a href="#Samaniego-LH3"> LH 3 mailako argazkiak </a> | <a href="#Samaniego-LH4"> LH 4 mailako argazkiak </a> |
-| <a href="#Samaniego-LH5"> LH 5 mailako argazkiak </a> | <a href="#Samaniego-LH6"> LH 6 mailako argazkiak </a> |
+| <a href="#Samaniego-LH3"> Ikusi LH 3ko argazkiak </a> | <a href="#Samaniego-LH4"> Ikusi LH 4ko argazkiak </a> |
+| <a href="#Samaniego-LH5"> Ikusi LH 5eko argazkiak </a> | <a href="#Samaniego-LH6"> Ikusi LH 6ko argazkiak </a> |
 
 <h2 class="project-tagline"  style="margin-top: 4rem;" >Urkipe Herri Eskola (Itsasondo) </h2>
 
@@ -29,7 +29,7 @@ https://itsasondokoherrieskola.blogspot.com/
 <img src="https://1.bp.blogspot.com/-R1WgyJqJAd4/Vk27-m2XEJI/AAAAAAAAU8U/hz0Cahjw2wc/s1600-r/URKIPE_zigilua_01.jpg" alt="Urkipe Herri Eskola" class="entity-image">
 </a>
 
-| <a href="#Itsasondo-LH12"> LH 1 eta 2 mailako argazkiak </a> | <a href="#Itsasondo-LH34"> LH 3 eta 4 mailako argazkiak|
+| <a href="#Itsasondo-LH12"> Ikusi LH 1eko eta 2ko argazkiak </a> | <a href="#Itsasondo-LH34"> Ikusi LH 3ko eta 4ko argazkiak|
 
 <h2 class="project-tagline" style="margin-top: 4rem;" >Urdaneta Ikastetxea (Ordizia) </h2>
 
@@ -41,7 +41,7 @@ https://urdanetahi.hezkuntza.net/eu/inicio2
 <img src="http://www.gatai.eus/assets/img/urdaneta1.png" alt="Urdaneta Ikastetxea (Ordizia)" class="entity-image">
 </a>
 
-| <a href="#Urdaneta-LH56"> LH 5 eta 6 mailako argazkiak </a> |
+| <a href="#Urdaneta-LH56"> Ikusi LH 5eko eta 6ko argazkiak </a> |
 
 <h2 class="project-tagline" style="margin-top: 4rem;" >Jakintza Ikastola (Ordizia) </h2>
 
@@ -53,14 +53,14 @@ https://www.jakintza.eus/
 <img src="https://www.jakintza.eus/wp-content/uploads/2024/02/logo_berria.png" alt="Jakintza Ikastola (Ordizia)" class="entity-image">
 </a>
 
-| <a href="#Jakintza-LH4"> LH 4 mailako argazkiak </a> | <a href="#Jakintza-LH5"> LH 5 mailako argazkiak </a> | <a href="#Jakintza-LH6">  LH 6 mailako argazkiak </a> |
+| <a href="#Jakintza-LH4"> Ikusi LH 4ko argazkiak </a> | <a href="#Jakintza-LH5"> Ikusi LH 5eko argazkiak </a> | <a href="#Jakintza-LH6"> Ikusi LH 6ko argazkiak </a> |
 
 
 
 <!-- Image Gallery Section -->
 
 
-<h2 class="project-tagline" style="margin-top: 4rem;" >Samaniego Herri Ikastetxea (Tolosa) - LH3ko irudiak </h2>
+<h2 class="project-tagline" style="margin-top: 4rem;" >Samaniego Herri Ikastetxea (Tolosa) - LH3ko argazkiak </h2>
 <div id="Samaniego-LH3" class="image-gallery">
   {% for image in site.static_files %}
      {% if image.path contains 'img/ikastetxeak/Samaniego/lh3' %}
@@ -69,7 +69,7 @@ https://www.jakintza.eus/
 {% endfor %}
 </div>
 
-<h2 class="project-tagline" style="margin-top: 4rem;" >Samaniego Herri Ikastetxea (Tolosa) - LH4ko irudiak </h2>
+<h2 class="project-tagline" style="margin-top: 4rem;" >Samaniego Herri Ikastetxea (Tolosa) - LH4ko argazkiak </h2>
 <div id="Samaniego-LH4" class="image-gallery">
   {% for image in site.static_files %}
      {% if image.path contains 'img/ikastetxeak/Samaniego/lh4' %}
@@ -78,7 +78,7 @@ https://www.jakintza.eus/
 {% endfor %}
 </div>
 
-<h2 class="project-tagline" style="margin-top: 4rem;" >Samaniego Herri Ikastetxea (Tolosa) - LH5eko irudiak </h2>
+<h2 class="project-tagline" style="margin-top: 4rem;" >Samaniego Herri Ikastetxea (Tolosa) - LH5eko argazkiak </h2>
 <div id="Samaniego-LH5" class="image-gallery">
   {% for image in site.static_files %}
      {% if image.path contains 'img/ikastetxeak/Samaniego/lh5' %}
@@ -87,7 +87,7 @@ https://www.jakintza.eus/
 {% endfor %}
 </div>
 
-<h2 class="project-tagline" style="margin-top: 4rem;" >Samaniego Herri Ikastetxea (Tolosa) - LH6ko irudiak </h2>
+<h2 class="project-tagline" style="margin-top: 4rem;" >Samaniego Herri Ikastetxea (Tolosa) - LH6ko argazkiak </h2>
 <div id="Samaniego-LH6" class="image-gallery">
   {% for image in site.static_files %}
      {% if image.path contains 'img/ikastetxeak/Samaniego/lh6' %}
@@ -98,7 +98,7 @@ https://www.jakintza.eus/
 
 
 
-<h2 class="project-tagline" style="margin-top: 4rem;" > Urkipe Herri Eskola (Itsasondo) - LH1eko eta 2ko irudiak </h2>
+<h2 class="project-tagline" style="margin-top: 4rem;" > Urkipe Herri Eskola (Itsasondo) - LH1eko eta 2ko argazkiak </h2>
 <div id="Itsasondo-LH12" class="image-gallery">
   {% for image in site.static_files %}
      {% if image.path contains 'img/ikastetxeak/itsasondo/lh12' %}
@@ -108,7 +108,7 @@ https://www.jakintza.eus/
 </div>
 
 
-<h2 class="project-tagline" style="margin-top: 4rem;" > Urkipe Herri Eskola (Itsasondo) - LH3ko eta 4ko irudiak </h2>
+<h2 class="project-tagline" style="margin-top: 4rem;" > Urkipe Herri Eskola (Itsasondo) - LH3ko eta 4ko argazkiak </h2>
 <div id="Itsasondo-LH34" class="image-gallery">
   {% for image in site.static_files %}
      {% if image.path contains 'img/ikastetxeak/itsasondo/lh34' %}
@@ -118,7 +118,7 @@ https://www.jakintza.eus/
 </div>
 
 
-<h2 class="project-tagline" style="margin-top: 4rem;" > Urdaneta Ikastetxea (Ordizia) - LH5eko eta 6ko irudiak </h2>
+<h2 class="project-tagline" style="margin-top: 4rem;" > Urdaneta Ikastetxea (Ordizia) - LH5eko eta 6ko argazkiak </h2>
 <div id="Urdaneta-LH56" class="image-gallery">
   {% for image in site.static_files %}
      {% if image.path contains 'img/ikastetxeak/Urdaneta/lh56' %}
@@ -128,7 +128,7 @@ https://www.jakintza.eus/
 </div>
 
 
-<h2 class="project-tagline" style="margin-top: 4rem;" > Jakintza Ikastola (Ordizia) - LH4ko irudiak </h2>
+<h2 class="project-tagline" style="margin-top: 4rem;" > Jakintza Ikastola (Ordizia) - LH4ko argazkiak </h2>
 <div id="Jakintza-LH4" class="image-gallery">
   {% for image in site.static_files %}
      {% if image.path contains 'img/ikastetxeak/jakintza/lh4' %}
@@ -137,7 +137,7 @@ https://www.jakintza.eus/
 {% endfor %}
 </div>
 
-<h2 class="project-tagline" style="margin-top: 4rem;" > Jakintza Ikastola (Ordizia) - LH5eko irudiak </h2>
+<h2 class="project-tagline" style="margin-top: 4rem;" > Jakintza Ikastola (Ordizia) - LH5eko argazkiak </h2>
 <div id="Jakintza-LH5" class="image-gallery">
   {% for image in site.static_files %}
      {% if image.path contains 'img/ikastetxeak/jakintza/lh5' %}
@@ -146,7 +146,7 @@ https://www.jakintza.eus/
 {% endfor %}
 </div>
 
-<h2 class="project-tagline" style="margin-top: 4rem;" > Jakintza Ikastola (Ordizia) - LH6ko irudiak </h2>
+<h2 class="project-tagline" style="margin-top: 4rem;" > Jakintza Ikastola (Ordizia) - LH6ko argazkiak </h2>
 <div id="Jakintza-LH6" class="image-gallery">
   {% for image in site.static_files %}
      {% if image.path contains 'img/ikastetxeak/jakintza/lh6' %}

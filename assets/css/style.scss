@@ -264,7 +264,7 @@ p {
 
 .image-gallery {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   grid-gap: 10px;
   margin: 20px 0;
 }
@@ -276,7 +276,7 @@ p {
 }
 
 .image-gallery img:hover {
-  transform: scale(1.05);
+  transform: scale(1.02);
   cursor: pointer;
 }
 
