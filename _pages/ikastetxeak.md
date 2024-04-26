@@ -186,7 +186,7 @@ https://www.jakintza.eus/
 {% endfor %}
 </div>
 
-<h2 class="project-tagline"  > Jakintza Ikastola (Ordizia) - LH6ko argazkiak </h2>
+<h2 class="project-tagline"> LH6ko argazkiak </h2>
 <div id="Jakintza-LH6" class="image-gallery">
   {% for image in site.static_files %}
      {% if image.path contains 'img/ikastetxeak/jakintza/lh6' %}

@@ -68,6 +68,7 @@ $button-header-color-selected: #000000 !default;
     }
 }
 
+
 .btn-header {
     color: $button-header-color;
     background-color: rgba(255, 255, 255, 0.1);
@@ -136,6 +137,44 @@ $button-header-color-selected: #000000 !default;
       margin-left: 0rem;
     }
   }
+}
+
+
+/*dropdown menu for ikastetxeak*/
+.navigation-buttons .dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.navigation-buttons .dropdown-menu {
+    display: none;
+    position: absolute;
+    background-color: $header-bg-color;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.navigation-buttons .dropdown-menu a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+
+  &:hover {
+    color: $button-header-color-selected;
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, 0.75);
+    text-decoration-line: underline;
+    text-decoration-thickness: 2px;
+    text-decoration-color: $header-heading-color ;
+  }
+
+}
+
+.navigation-buttons .dropdown:hover .dropdown-menu {
+    display: block;
 }
 
 
