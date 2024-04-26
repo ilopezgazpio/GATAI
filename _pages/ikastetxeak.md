@@ -106,6 +106,17 @@ https://itsasondokoherrieskola.blogspot.com/
 {% endfor %}
 </div>
 
+<h2 class="project-tagline"> LH5eko eta 6ko argazkiak </h2>
+<div id="Itsasondo-LH56" class="image-gallery">
+  {% for image in site.static_files %}
+     {% if image.path contains 'img/ikastetxeak/itsasondo/lh56' %}
+      <a href="{{ image.path }}" data-lightbox="urkipe-gallery_lh56" data-title="Urkipe LH56">
+      <img src="{{ image.path }}" alt="Urkipe LH56">
+      </a>
+  {% endif %}
+{% endfor %}
+</div>
+
 
 
 
