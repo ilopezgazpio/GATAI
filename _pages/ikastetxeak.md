@@ -10,7 +10,7 @@ permalink: /ikastetxeak
 
 
 
-<h2 class="project-tagline" >Samaniego Herri Ikastetxea (Tolosa) </h2>
+<h2 class="project-tagline" id="Samaniego-LH3" >Samaniego Herri Ikastetxea (Tolosa) </h2>
 <a href="https://samaniego-tolosa.hezkuntza.net/eu/hasiera" target="_blank">
 https://samaniego-tolosa.hezkuntza.net/eu/hasiera
 </a>
@@ -21,7 +21,7 @@ https://samaniego-tolosa.hezkuntza.net/eu/hasiera
 
 
 <h2 class="project-tagline"> LH3ko argazkiak </h2>
-<div id="Samaniego-LH3" class="image-gallery">
+<div class="image-gallery">
   {% for image in site.static_files %}
      {% if image.path contains 'img/ikastetxeak/Samaniego/lh3' %}
       <a href="{{ image.path }}"  data-lightbox="samaniego-gallery_lh3" data-title="Samaniego LH3">
@@ -32,7 +32,7 @@ https://samaniego-tolosa.hezkuntza.net/eu/hasiera
 </div>
 
 <h2 class="project-tagline"> LH4ko argazkiak </h2>
-<div id="Samaniego-LH4" class="image-gallery">
+<div class="image-gallery">
   {% for image in site.static_files %}
      {% if image.path contains 'img/ikastetxeak/Samaniego/lh4' %}
       <a href="{{ image.path }}" data-lightbox="samaniego-gallery_lh4" data-title="Samaniego LH4">
@@ -43,7 +43,7 @@ https://samaniego-tolosa.hezkuntza.net/eu/hasiera
 </div>
 
 <h2 class="project-tagline"  > LH5eko argazkiak </h2>
-<div id="Samaniego-LH5" class="image-gallery">
+<div class="image-gallery">
   {% for image in site.static_files %}
      {% if image.path contains 'img/ikastetxeak/Samaniego/lh5' %}
       <a href="{{ image.path }}" data-lightbox="samaniego-gallery_lh5" data-title="Samaniego LH5">
@@ -54,7 +54,7 @@ https://samaniego-tolosa.hezkuntza.net/eu/hasiera
 </div>
 
 <h2 class="project-tagline"> LH6ko argazkiak </h2>
-<div id="Samaniego-LH6" class="image-gallery">
+<div class="image-gallery">
   {% for image in site.static_files %}
      {% if image.path contains 'img/ikastetxeak/Samaniego/lh6' %}
       <a href="{{ image.path }}" data-lightbox="samaniego-gallery_lh6" data-title="Samaniego LH6">
@@ -69,12 +69,7 @@ https://samaniego-tolosa.hezkuntza.net/eu/hasiera
 
 
 
-
-
-
-
-
-<h2 class="project-tagline" style="margin-top: 8rem;">Urkipe Herri Eskola (Itsasondo) </h2>
+<h2 class="project-tagline" style="margin-top: 8rem;" id="Itsasondo-LH12">Urkipe Herri Eskola (Itsasondo) </h2>
 
 <a href="https://itsasondokoherrieskola.blogspot.com/" target="_blank">
 https://itsasondokoherrieskola.blogspot.com/
@@ -85,7 +80,7 @@ https://itsasondokoherrieskola.blogspot.com/
 </a>
 
 <h2 class="project-tagline">LH1eko eta 2ko argazkiak </h2>
-<div id="Itsasondo-LH12" class="image-gallery">
+<div class="image-gallery">
   {% for image in site.static_files %}
      {% if image.path contains 'img/ikastetxeak/itsasondo/lh12' %}
       <a href="{{ image.path }}" data-lightbox="urkipe-gallery_lh12" data-title="Urkipe LH12">
@@ -96,7 +91,7 @@ https://itsasondokoherrieskola.blogspot.com/
 </div>
 
 <h2 class="project-tagline"> LH3ko eta 4ko argazkiak </h2>
-<div id="Itsasondo-LH34" class="image-gallery">
+<div class="image-gallery">
   {% for image in site.static_files %}
      {% if image.path contains 'img/ikastetxeak/itsasondo/lh34' %}
       <a href="{{ image.path }}" data-lightbox="urkipe-gallery_lh34" data-title="Urkipe LH34">
@@ -107,7 +102,7 @@ https://itsasondokoherrieskola.blogspot.com/
 </div>
 
 <h2 class="project-tagline"> LH5eko eta 6ko argazkiak </h2>
-<div id="Itsasondo-LH56" class="image-gallery">
+<div class="image-gallery">
   {% for image in site.static_files %}
      {% if image.path contains 'img/ikastetxeak/itsasondo/lh56' %}
       <a href="{{ image.path }}" data-lightbox="urkipe-gallery_lh56" data-title="Urkipe LH56">
@@ -123,7 +118,7 @@ https://itsasondokoherrieskola.blogspot.com/
 
 
 
-<h2 class="project-tagline" style="margin-top: 8rem;">Urdaneta Ikastetxea (Ordizia) </h2>
+<h2 class="project-tagline" style="margin-top: 8rem;" id="Urdaneta-LH56">Urdaneta Ikastetxea (Ordizia) </h2>
 
 <a href="https://urdanetahi.hezkuntza.net/eu/inicio2" target="_blank">
 https://urdanetahi.hezkuntza.net/eu/inicio2
@@ -134,7 +129,7 @@ https://urdanetahi.hezkuntza.net/eu/inicio2
 </a>
 
 <h2 class="project-tagline">  LH5eko eta 6ko argazkiak </h2>
-<div id="Urdaneta-LH56" class="image-gallery">
+<div class="image-gallery">
   {% for image in site.static_files %}
      {% if image.path contains 'img/ikastetxeak/Urdaneta/lh56' %}
       <a href="{{ image.path }}" data-lightbox="urdaneta-gallery_lh34" data-title="Urdaneta LH56">
@@ -154,7 +149,7 @@ https://urdanetahi.hezkuntza.net/eu/inicio2
 
 
 
-<h2 class="project-tagline" style="margin-top: 8rem;" >Jakintza Ikastola (Ordizia) </h2>
+<h2 class="project-tagline" style="margin-top: 8rem;" id="Jakintza-LH4">Jakintza Ikastola (Ordizia) </h2>
 
 <a href="https://www.jakintza.eus/" target="_blank">
 https://www.jakintza.eus/
@@ -165,7 +160,7 @@ https://www.jakintza.eus/
 </a>
 
 <h2 class="project-tagline"> LH4ko argazkiak </h2>
-<div id="Jakintza-LH4" class="image-gallery">
+<div class="image-gallery">
   {% for image in site.static_files %}
      {% if image.path contains 'img/ikastetxeak/jakintza/lh4' %}
       <a href="{{ image.path }}" data-lightbox="jakintza-gallery_lh4" data-title="Jakintza LH4">
