@@ -1,6 +1,6 @@
 ---
 layout: default_es
-title: "Ursula Luna y Amaia Serrano-Mariezkurrena del proyecto GATAI fueron entrevistadas en el programa Faktoria de Euskadi Irratia"
+title: "Ursula y Amaia fueron entrevistadas en el programa Faktoria de Euskadi Irratia"
 date: 2024-04-23
 image: /assets/img/posts/2024-04-23-FAKTORIA-GATAI.png
 lang: es

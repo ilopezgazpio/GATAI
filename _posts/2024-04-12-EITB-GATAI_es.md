@@ -1,6 +1,6 @@
 ---
 layout: default_es
-title: "Es muy beneficioso trabajar temas conflictivos en las escuelas a través de álbumes ilustrados"
+title: "Es muy beneficioso trabajar temas conflictivos a través de álbumes ilustrados"
 date: 2024-04-12
 image: /assets/img/posts/2024-04-12-EITB-GATAI.png
 lang: es

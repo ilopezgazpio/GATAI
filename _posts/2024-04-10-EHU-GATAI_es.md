@@ -1,6 +1,6 @@
 ---
 layout: default_es
-title: "Alumnos de la UPV/EHU aprenden cómo se puede trabajar en el aula un tema controvertido"
+title: "Alumnos de la UPV/EHU aprenden cómo se puede trabajar un tema controvertido"
 date: 2024-04-10
 image: /assets/img/posts/2024-04-10-EHU-GATAI.png
 lang: es
