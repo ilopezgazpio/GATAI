@@ -3,6 +3,7 @@ layout: default
 title: "Album ilustratuen bidez eskoletan gai gatazkatsuak lantzea oso baliagarria da"
 date: 2024-04-12
 image: /assets/img/posts/2024-04-12-EITB-GATAI.png
+lang: eu
 ---
 
 

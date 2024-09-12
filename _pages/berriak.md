@@ -10,23 +10,28 @@ permalink: /berriak
 
     {% for post in site.posts %}
 
-    <hr>
+       {% if post.lang == "eu" %}
 
-    <div class="post">
+           <hr>
 
-    	  <a href=" {{ post.url }} ">
+    	   <div class="post">
 
-              {{ post.title }} ({{ post.date | date: "%Y/%m/%d" }})
+    	   	<a href=" {{ post.url }} ">
+
+		        {{ post.title }} ({{ post.date | date: "%Y/%m/%d" }})
 	      
-	      <img src="{{ post.image }}" alt="{{ post.title }}" class="post-image">
+			<img src="{{ post.image }}" alt="{{ post.title }}" class="post-image">
 
 
-	  </a>
-	  <p>
-		{{ post.excerpt }}
-	  </p>
+	  	</a>
+	  	<p>
+			{{ post.excerpt }}
+	  	</p>
 
-	</div>
+	   </div>
+
+      {% endif %}
+
     {% endfor %}
 
 </div>

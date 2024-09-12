@@ -3,6 +3,7 @@ layout: default
 title: "GATAI proiektua aurkeztu dute Zaragozako Unibertsitateko sinposioan"
 date: 2024-06-13
 image: /assets/img/posts/2024-06-12-GrupoArgos-GATAI.png
+lang: eu
 ---
 
 
