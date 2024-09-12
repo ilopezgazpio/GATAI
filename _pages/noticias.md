@@ -4,7 +4,7 @@ title: GATAI
 permalink: /noticias
 ---
 
-<h2 class="project-tagline">X sare sozialean aurkituko gaituzu #GATAI traolarekin</h2>
+<h2 class="project-tagline">Nos encontrarás en la red social X con el hashtag #GATAI</h2>
 
 <div class="posts-list">
 
@@ -18,7 +18,7 @@ permalink: /noticias
 
     	  <a href=" {{ post.url }} ">
 
-              {{ post.title }} ({{ post.date | date: "%Y/%m/%d" }})
+              {{ post.title }} ({{ post.date | date: "%d/%m/%Y" }})
 	      
 	      <img src="{{ post.image }}" alt="{{ post.title }}" class="post-image">
 
