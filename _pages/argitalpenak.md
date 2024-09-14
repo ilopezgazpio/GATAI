@@ -5,7 +5,7 @@ permalink: /argitalpenak
 ---
 <div>
 
-<h2> Jarraian GATAI proiektuarekin lotutako argitalpenak aurkituko dituzu: </h2>
+<h2 class="project-tagline> Jarraian GATAI proiektuarekin lotutako argitalpenak aurkituko dituzu: </h2>
 
 <p>
 <img src="http://www.gatai.eus/assets/img/paper_fontes.jpg" alt="paper_fontes" class="author-image">
