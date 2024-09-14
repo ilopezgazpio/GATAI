@@ -4,7 +4,8 @@ title: GATAI
 permalink: /argitalpenak
 ---
 <div>
-Jarraian GATAI proiektuarekin lotutako argitalpenak aurkituko dituzu:
+
+<h2> Jarraian GATAI proiektuarekin lotutako argitalpenak aurkituko dituzu: </h2>
 
 <p>
 <img src="http://www.gatai.eus/assets/img/paper_fontes.jpg" alt="paper_fontes" class="author-image">

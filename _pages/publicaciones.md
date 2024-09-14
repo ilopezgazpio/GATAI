@@ -4,7 +4,7 @@ title: GATAI
 permalink: /publicaciones
 ---
 <div>
-A continuación encontrarás las publicaciones relacionadas con el proyecto GATAI:
+<h2> A continuación encontrarás las publicaciones relacionadas con el proyecto GATAI: </h2>
 
 <p>
 <img src="http://www.gatai.eus/assets/img/paper_fontes.jpg" alt="paper_fontes" class="author-image">
