@@ -195,6 +195,21 @@ $button-header-color-selected: #000000 !default;
     }
 }
 
+
+/* Language link */
+.language-switch {
+
+}
+
+.language-link {
+    margin-left: auto; 
+    padding: 0 15px;
+    text-decoration: none;
+    color: inherit;
+    font-weight: bold;
+}
+
+
 /* Define upper banner */
 .horizontal-banner {
     margin-top: 3rem;
