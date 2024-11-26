@@ -84,8 +84,37 @@ Haiei esker, ikerketa historikoa eta haien didaktika uztartzen ditu. Gizartean g
 </div>
 
 
+<hr>
+
+
+<h2 class="project-tagline">Naiara Vicent</h2>
+<div>
+<p>
+<img src="http://www.gatai.eus/assets/img/NaiaraVicent.jpg" alt="Naiara Vicent" class="author-image">
+Gizarte Zientzien arloko irakaslea da Euskal Herriko Unibertsitateko (UPV/EHU),
+Matematika, Zientzia Esperimental eta Gizarte Zientzien Didaktika sailean. Historian lizentziatua (UPV/EHU),
+Museoak eta Hezkuntza eta Arkeologia graduondoak ere eginda ditu Bartzelonako Unibertsitatean (UB),
+Garapen Psikologikoan, Ikaskuntzan eta Hezkuntzan doktoretza lortu aurretik Madrilgo Unibertsitate Autonomoan (UAM).
+</p>
+
+<p>
+ Unibertsitatean hasi aurretik lan-esperientzia arkeologia, ondarea eta hezkuntzarekin lotura izan du.
+Egun, Grupo de Investigación en Patrimonio y Paisajes Culturales (<a href="https://www.ehu.eus/es/web/enpresa/transferentzia-eta-berrikuntza-eskaintza-arloaren-arabera/-/asset_publisher/L5fcxCxBETI1/content/gipypac?inheritRedirect=false&redirect=https%3A%2F%2Fwww.ehu.eus%3A443%2Fes%2Fweb%2Fenpresa%2Ftransferentzia-eta-berrikuntza" target="_blank">GIPyPAC</a>),
+<a href="http://www.red14.net/es/presentacion-red-14/" target="_blank">Red 14</a>: Red de investigación en enseñanza de las ciencias sociales,
+Observatorio de Educación Patrimonial en España (<a href="http://www.oepe.es/" target="_blank">OEPE</a>) eta OndarHez: Euskal Ondare Hezitzaileen Elkarteko kide delarik.
+</p>
+
+<p>
+Sus líneas de investigación están basadas en la Educación Patrimonial y en la Didáctica de las Ciencias Sociales. En los últimos años está investigando en torno a la enseñanza de la historia a través de temas controvertidos.
+Ha codirigido una tesis bajo esta temática (2024), coordinado un Proyecto de Innovación Educativa (2019-2020) y actualmente es investigadora principal de un proyecto de investigación en torno a estas cuestiones.
+</p>
+
+<b>ORCID ID</b>: <a href="https://orcid.org/0000-0002-2678-0098">https://orcid.org/0000-0002-2678-0098</a>
+</div>
+
 
 <hr>
+
 
 
 <h2 class="project-tagline">Iñigo Lopez-Gazpio</h2>
