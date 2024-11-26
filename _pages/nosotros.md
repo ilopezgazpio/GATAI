@@ -91,7 +91,7 @@ Licenciada en Historia (UPV/EHU), ha realizado los posgrados Museos y Educación
 <p>
 Antes de entrar en la universidad, su experiencia laboral estuvo relacionada con la arqueología, el patrimonio y la educación.
 Actualmente forma parte del Grupo de Investigación en Patrimonio y Paisajes Culturales (<a href="https://www.ehu.eus/es/web/enpresa/transferentzia-eta-berrikuntza-eskaintza-arloaren-arabera/-/asset_publisher/L5fcxCxBETI1/content/gipypac?inheritRedirect=false&redirect=https%3A%2F%2Fwww.ehu.eus%3A443%2Fes%2Fweb%2Fenpresa%2Ftransferentzia-eta-berrikuntza" target="_blank">GIPyPAC</a>),
-<a href="http://www.red14.net/es/presentacion-red-14/" target="_blank">Red 14</a>: Red de investigación en enseñanza de las ciencias sociales,
+<a href="http://www.red14.net/es/presentacion/" target="_blank">Red 14</a>: Red de investigación en enseñanza de las ciencias sociales,
 Observatorio de Educación Patrimonial en España (<a href="http://www.oepe.es/" target="_blank">OEPE</a>) y OndarHez: Asociación de Educadores del Patrimonio Vasco.
 </p>
 

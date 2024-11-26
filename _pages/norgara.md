@@ -100,7 +100,7 @@ Garapen Psikologikoan, Ikaskuntzan eta Hezkuntzan doktoretza lortu aurretik Madr
 <p>
  Unibertsitatean hasi aurretik lan-esperientzia arkeologia, ondarea eta hezkuntzarekin lotura izan du.
 Egun, Grupo de Investigación en Patrimonio y Paisajes Culturales (<a href="https://www.ehu.eus/es/web/enpresa/transferentzia-eta-berrikuntza-eskaintza-arloaren-arabera/-/asset_publisher/L5fcxCxBETI1/content/gipypac?inheritRedirect=false&redirect=https%3A%2F%2Fwww.ehu.eus%3A443%2Fes%2Fweb%2Fenpresa%2Ftransferentzia-eta-berrikuntza" target="_blank">GIPyPAC</a>),
-<a href="http://www.red14.net/es/presentacion-red-14/" target="_blank">Red 14</a>: Red de investigación en enseñanza de las ciencias sociales,
+<a href="http://www.red14.net/es/presentacion/" target="_blank">Red 14</a>: Red de investigación en enseñanza de las ciencias sociales,
 Observatorio de Educación Patrimonial en España (<a href="http://www.oepe.es/" target="_blank">OEPE</a>) eta OndarHez: Euskal Ondare Hezitzaileen Elkarteko kide delarik.
 </p>
 
