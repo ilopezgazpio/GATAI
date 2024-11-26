@@ -98,15 +98,17 @@ Garapen Psikologikoan, Ikaskuntzan eta Hezkuntzan doktoretza lortu aurretik Madr
 </p>
 
 <p>
- Unibertsitatean hasi aurretik lan-esperientzia arkeologia, ondarea eta hezkuntzarekin lotura izan du.
+Unibertsitatean hasi aurretik lan-esperientzia arkeologia, ondarea eta hezkuntzarekin lotura izan du.
 Egun, Grupo de Investigación en Patrimonio y Paisajes Culturales (<a href="https://www.ehu.eus/es/web/enpresa/transferentzia-eta-berrikuntza-eskaintza-arloaren-arabera/-/asset_publisher/L5fcxCxBETI1/content/gipypac?inheritRedirect=false&redirect=https%3A%2F%2Fwww.ehu.eus%3A443%2Fes%2Fweb%2Fenpresa%2Ftransferentzia-eta-berrikuntza" target="_blank">GIPyPAC</a>),
 <a href="http://www.red14.net/es/presentacion/" target="_blank">Red 14</a>: Red de investigación en enseñanza de las ciencias sociales,
 Observatorio de Educación Patrimonial en España (<a href="http://www.oepe.es/" target="_blank">OEPE</a>) eta OndarHez: Euskal Ondare Hezitzaileen Elkarteko kide delarik.
 </p>
 
 <p>
-Sus líneas de investigación están basadas en la Educación Patrimonial y en la Didáctica de las Ciencias Sociales. En los últimos años está investigando en torno a la enseñanza de la historia a través de temas controvertidos.
-Ha codirigido una tesis bajo esta temática (2024), coordinado un Proyecto de Innovación Educativa (2019-2020) y actualmente es investigadora principal de un proyecto de investigación en torno a estas cuestiones.
+Bere ikerketa lerroak Ondare Hezkuntzan eta Gizarte Zientzien Didaktikan oinarrituta daude,
+azken urteetan gai gatazkatsuen bidezko historiaren irakaskuntzaren inguruan ikertzen ari delarik.
+Gai honen inguruan tesi bat zuzendu du, Hezkuntza Berrikuntzarako Proiektu (2019-2020) baten
+koordinatzaile izan da eta gaur egun ikerketa proiektu baten ikertzaile nagusia da.
 </p>
 
 <b>ORCID ID</b>: <a href="https://orcid.org/0000-0002-2678-0098">https://orcid.org/0000-0002-2678-0098</a>
