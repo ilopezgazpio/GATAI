@@ -287,6 +287,12 @@ p {
 }
 
 
+/*Correct alignment for publications*/
+.publication p {
+    text-indent: -20px;  /* Sangría negativa en la primera línea */
+    padding-left: 20px;  /* Desplaza todo el párrafo a la derecha */
+}
+
 
 /* Define style for posts */
 .posts-list {
