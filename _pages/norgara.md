@@ -48,6 +48,7 @@ Dibulgazioan ere aritu da, bai <i>Argia</i> aldizkariko liburu kritikan, baita <
 <b>ORCID ID</b>: <a href="https://orcid.org/0000-0001-5336-6311"> https://orcid.org/0000-0001-5336-6311 </a>
 </div>
 
+<!--
 <hr>
 
 <h2 class="project-tagline">Nerea Permach</h2>
@@ -62,7 +63,7 @@ baita irakurketa aukeraketaren inguruko auziari eta eskolako literatur kanonari 
 </p>
 <b>ORCID ID</b>: <a href="https://orcid.org/0000-0002-1238-457X">https://orcid.org/0000-0002-1238-457X</a>
 </div>
-
+-->
 
 <hr>
 

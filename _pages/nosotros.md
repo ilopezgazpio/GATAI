@@ -46,6 +46,7 @@ También se ha dedicado a la divulgación, donde ha publicado columnas sobre cr�
 <b>ORCID ID</b>: <a href="https://orcid.org/0000-0001-5336-6311"> https://orcid.org/0000-0001-5336-6311 </a>
 </div>
 
+<!--
 <hr>
 
 <h2 class="project-tagline">Nerea Permach</h2>
@@ -77,6 +78,8 @@ Tiene como objeto de estudio e interés tanto los temas conflictivos en la socie
 </p>
 <b>ORCID ID</b>: <a href="https://orcid.org/0000-0002-0356-7833">https://orcid.org/0000-0002-0356-7833</a>
 </div>
+-->
+
 <hr>
 
 
