@@ -11,7 +11,7 @@ permalink: /publicaciones
   <div class="publication">
     <p>
       Luna, U., Serrano-Mariezkurrena, A., Echeberria, B. eta Vicent, N. (2024, 14-16 de noviembre).
-      <i>Uso de álbumes ilustrados para trabajar la memoria histórica con el profesorado en formación</i>
+      <i>Uso de álbumes ilustrados para trabajar la memoria histórica con el profesorado en formación.</i>
      II. Congreso Internacional. Historia con Memoria en la Educación, Iruñea, Nafarroa
     </p>
   </div>
