@@ -60,7 +60,7 @@ Asimismo, ha escrito artículos sobre la lectura literaria en la Educación Prim
 </p>
 <b>ORCID ID</b>: <a href="https://orcid.org/0000-0002-1238-457X">https://orcid.org/0000-0002-1238-457X</a>
 </div>
-
+-->
 <hr>
 
 <h2 class="project-tagline">Berta Echeberria</h2>
@@ -78,7 +78,7 @@ Tiene como objeto de estudio e interés tanto los temas conflictivos en la socie
 </p>
 <b>ORCID ID</b>: <a href="https://orcid.org/0000-0002-0356-7833">https://orcid.org/0000-0002-0356-7833</a>
 </div>
--->
+
 
 <hr>
 
