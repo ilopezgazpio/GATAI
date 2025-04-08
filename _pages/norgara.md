@@ -27,10 +27,10 @@ Gai gatazkatsuen inguruan lan egiten du, hala nola memoria historikoa edo genero
 <hr>
 
 
-<h2 class="project-tagline">Amaia Serrano-Mariezkurrena</h2>
+<h2 class="project-tagline">Amaia Mariezkurrena-Serrano</h2>
 <div>
 <p>
-<img src="http://www.gatai.eus/assets/img/AmaiaSerrano.jpg" alt="Amaia Serrano-Mariezkurrena" class="author-image">
+<img src="http://www.gatai.eus/assets/img/AmaiaSerrano.jpg" alt="Amaia Mariezkurrena-Serrano" class="author-image">
 Hizkuntzaren eta Literaturaren Didaktikako irakaslea da Euskal Herriko Unibertsitatean (UPV/EHU).
 Lehen Hezkuntzan eta Atzerriko Hizkuntzan diplomatua eta Euskal Filologian lizentziatua. UPV/EHUko Literatura Konparatua eta Ikasketa Literarioak masterra egin zuen
 (ikasle onenaren saria eskuratuta) eta doktorego programa berean defendatu zuen <i>36ko Gerra euskal nobelagintzan: memoria ikerketak narratologia kulturalaren ikuspegitik</i> tesia, UPV/EHUren sari berezia jaso zuena.

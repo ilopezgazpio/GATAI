@@ -26,10 +26,10 @@ Sus líneas de investigación se centran en la Educación Patrimonial y la Didá
 <hr>
 
 
-<h2 class="project-tagline">Amaia Serrano-Mariezkurrena</h2>
+<h2 class="project-tagline">Amaia Mariezkurrena-Serrano</h2>
 <div>
 <p>
-<img src="http://www.gatai.eus/assets/img/AmaiaSerrano.jpg" alt="Amaia Serrano-Mariezkurrena" class="author-image">
+<img src="http://www.gatai.eus/assets/img/AmaiaSerrano.jpg" alt="Amaia Mariezkurrena-Serrano" class="author-image">
 Profesora del departamento de Didáctica de la Lengua y la Literatura en la Universidad del País Vasco (UPV/EHU). Diplomada en Educación Primaria (2005) y Lengua Extranjera (2007) y Licenciada en Filología Vasca (2009).
 Realizó el máster de Literatura Comparada y Estudios Literarios de la UPV/EHU en el 2010 (con el premio a la mejor alumna) y defendió su tesis doctoral <i>36ko Gerra euskal nobelagintzan. Memoria ikerketak narratologia kulturalaren ikuspegitik</i> [La Guerra Civil en la novela vasca. Estudios de Memoria desde la perspectiva de la narratología cultural], que recibió el premio extraordinario de la UPV/EHU.
 </p>
