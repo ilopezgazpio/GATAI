@@ -107,6 +107,20 @@ Ha codirigido una tesis bajo esta temática (2024), coordinado un Proyecto de In
 </div>
 <hr>
 
+<h2 class="project-tagline"> Iratxe Esparza Martin</h2>
+<div>
+<p>
+<img src="http://www.gatai.eus/assets/img/Esparza_argazkia.jpg" alt="Iratxe Esparza Martin" class="author-image">
+Iratxe Esparza Martin (Santurtzi, 1972) es Licenciada en Filología Vasca y Doctora en Literatura Comparada y Estudios Literarios por la Universidad del País Vasco. Tras una estancia en la Universidad de La Plata, presenta su tesis doctoral sobre la transformación de la identidad analizando las diferentes manifestaciones del sujeto postmoderno en la narrativa vasca del siglo XXI.
+</p>
+<p>
+Además de publicar numerosos artículos y capítulos de libro sobre la literatura vasca contemporánea desde el punto de vista de la sociología de la literatura y de la crítica literaria feminista, complementa la trayectoria investigadora con su participación en diversos cursos y congresos. Actualmente es profesora agregada en el Departamento de Didáctica de la Lengua y Literatura en la Facultad de Educación de Bilbao (UPV/EHU), centrando su investigación en el área de la Literatura Infantil y Juvenil, bajo el prisma de los Objetivos de Desarrollo Sostenible y la perspectiva de género.
+</p>
+<b>ORCID ID</b>: <a href="https://orcid.org/0000-0002-0662-9809">https://orcid.org/0000-0002-0662-9809</a>
+</div>
+
+<hr>
+
 
 
 <h2 class="project-tagline">Iñigo Lopez-Gazpio</h2>
