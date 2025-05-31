@@ -118,6 +118,18 @@ koordinatzaile izan da eta gaur egun ikerketa proiektu baten ikertzaile nagusia 
 
 <hr>
 
+<h2 class="project-tagline"> Iratxe Esparza Martin</h2>
+<div>
+<p>
+<img src="http://www.gatai.eus/assets/img/Esparza_argazkia.jpg" alt="Iratxe Esparza Martin" class="author-image">
+Iratxe Esparza Martin (Santurtzi, 1972) Euskal Filologian Lizentziatua da eta Euskal Herriko Unibertsitatean Literatura Konparatuan eta Literatur Ikasketetan doktorea. La Platako Unibertsitatean egonaldi bat burutu ostean, bere doktorego tesia aurkezten du identitatearen eraldaketa eta XXI. mendeko euskal narratibako subjektu postmodernoaren agerpen ezberdinak aztertuz.
+
+Literaturaren soziologiaren eta literatur kritika feministaren ikuspuntutik, euskal literaturaren hainbat alderdiri buruzko lanak aldizkari zein liburuetarako idazteaz gain, ikertzailearen ibilbidea zenbait ikastaro eta kongresutara parte hartzearekin osatzen du. Gaur egun Euskal Herriko Unibertsitateko irakasle agregatua da, Bilboko Hezkuntza Fakultatean Literaturaren eta Hizkuntzaren Didaktika Sailean, eta ikerketaren ikerlerro nagusia Haur eta Gazte Literaturan oinarritzen da, Garapen Jasangarrirako Helburuen eta generoaren ikuspegietatik aztertuta.
+</p>
+<b>ORCID ID</b>: <a href="https://orcid.org/0000-0002-0662-9809">https://orcid.org/0000-0002-0662-9809</a>
+</div>
+
+<hr>
 
 
 <h2 class="project-tagline">Iñigo Lopez-Gazpio</h2>
