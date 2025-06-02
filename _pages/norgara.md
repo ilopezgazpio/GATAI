@@ -136,7 +136,7 @@ Literaturaren soziologiaren eta literatur kritika feministaren ikuspuntutik, eus
 <h2 class="project-tagline"> Iratxe Gillate</h2>
 <div>
 <p>
-<img src="http://www.gatai.eus/img/Iratxe_gillate.png" alt="Iratxe Gillate" class="author-image">
+<img src="http://www.gatai.eus/assets/img/Iratxe_gillate.png" alt="Iratxe Gillate" class="author-image">
 Geografia eta Historian eta Gizarte eta Kultura Antropologian lizentziatua da, eta Psikodidaktika: Hezkuntzaren Psikologia eta Berariazko Didaktiketan doktorea (EHU). Emakume eta Gizonen berdintasunaren gaineko Masterra EHUn eta Euskal Kulturan Postgradua Deustuko Unibertsitatean egin ditu. Gizarte Zientziak, Historia eta Geografia irakaslea izan da, Euskal Autonomia Erkidegoko Derrigorrezko Bigarren Hezkuntza publikoko hainbat ikastetxetan.
 </p>
 <p>
