@@ -121,6 +121,20 @@ Además de publicar numerosos artículos y capítulos de libro sobre la literatu
 
 <hr>
 
+<h2 class="project-tagline"> Iratxe Gillate</h2>
+<div>
+<p>
+<img src="http://www.gatai.eus/assets/img/Iratxe_gillate.png" alt="Iratxe Gillate" class="author-image">
+Licenciada en Geografía e Historia y Antropología Social y Cultural, y Doctora en Psicodidáctica: Psicología de la Educación y Didácticas Específicas (EHU). Ha realizado el Máster en Igualdad de Mujeres y Hombres de la EHU y el Postgrado en Cultura Vasca en la Universidad de Deusto. Ha sido profesora de Ciencias Sociales, Geografía e Historia en institutos públicos de Educación Secundaria de la Comunidad Autónoma del País Vasco.
+</p>
+
+<p>
+Desde 2008 es profesora del Departamento de Didáctica de las Matemáticas, Ciencias Experimentales y Ciencias Sociales de la Universidad del País Vasco. Pertenece al grupo de investigación GIPyPAC (Grupo de Investigación en Patrimonio y Paisajes Culturales) y forma parte de la Red Red14 (Red de investigación en enseñanza de las ciencias sociales. Sus líneas de investigación son la Educación Patrimonial y la Didáctica de la Historia y las Ciencias Sociales, poniendo el foco en la historia de las mujeres, la coeducación y el tratamiento de temas conflictivos.
+</p>
+<b>ORCID ID</b>: <a href="https://orcid.org/0000-0001-6449-1804">https://orcid.org/0000-0001-6449-1804</a>
+</div>
+
+<hr>
 
 
 <h2 class="project-tagline">Iñigo Lopez-Gazpio</h2>
