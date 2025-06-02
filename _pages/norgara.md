@@ -142,7 +142,7 @@ Geografia eta Historian eta Gizarte eta Kultura Antropologian lizentziatua da, e
 <p>
 2008tik Euskal Herriko Unibertsitateko Matematikaren, Zientzia Esperimentalen eta Gizarte Zientzien Didaktika Saileko irakaslea da. GIPyPAC ikerketa taldeko kide da (Grupo de Investigación en Patrimonio y Paisajes Culturales) eta Red14 Sarearen parte (Red de investigación en enseñanza de las ciencias sociales). Bere ikerketa lerroak Ondare Hezkuntzan eta Historia eta Gizarte Zientzien Didaktikan oinarrituta daude, emakumeen historia, hezkidetza eta gai gatazkatsuen trataeran fokua jartzen.
 </p>
-<b>ORCID ID</b>: <a href="https://orcid.org/0000-0002-0662-9809">https://orcid.org/0000-0002-0662-9809</a>
+<b>ORCID ID</b>: <a href="https://orcid.org/0000-0001-6449-1804">https://orcid.org/0000-0001-6449-1804</a>
 </div>
 
 
