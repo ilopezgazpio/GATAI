@@ -133,6 +133,22 @@ Literaturaren soziologiaren eta literatur kritika feministaren ikuspuntutik, eus
 <hr>
 
 
+<h2 class="project-tagline"> Iratxe Gillate</h2>
+<div>
+<p>
+<img src="http://www.gatai.eus/img/Iratxe_gillate.png" alt="Iratxe Gillate" class="author-image">
+Geografia eta Historian eta Gizarte eta Kultura Antropologian lizentziatua da, eta Psikodidaktika: Hezkuntzaren Psikologia eta Berariazko Didaktiketan doktorea (EHU). Emakume eta Gizonen berdintasunaren gaineko Masterra EHUn eta Euskal Kulturan Postgradua Deustuko Unibertsitatean egin ditu. Gizarte Zientziak, Historia eta Geografia irakaslea izan da, Euskal Autonomia Erkidegoko Derrigorrezko Bigarren Hezkuntza publikoko hainbat ikastetxetan.
+</p>
+<p>
+2008tik Euskal Herriko Unibertsitateko Matematikaren, Zientzia Esperimentalen eta Gizarte Zientzien Didaktika Saileko irakaslea da. GIPyPAC ikerketa taldeko kide da (Grupo de Investigación en Patrimonio y Paisajes Culturales) eta Red14 Sarearen parte (Red de investigación en enseñanza de las ciencias sociales). Bere ikerketa lerroak Ondare Hezkuntzan eta Historia eta Gizarte Zientzien Didaktikan oinarrituta daude, emakumeen historia, hezkidetza eta gai gatazkatsuen trataeran fokua jartzen.
+</p>
+<b>ORCID ID</b>: <a href="https://orcid.org/0000-0002-0662-9809">https://orcid.org/0000-0002-0662-9809</a>
+</div>
+
+
+<hr>
+
+
 <h2 class="project-tagline">Iñigo Lopez-Gazpio</h2>
 <div>
 <p>
