@@ -149,6 +149,24 @@ Geografia eta Historian eta Gizarte eta Kultura Antropologian lizentziatua da, e
 <hr>
 
 
+<h2 class="project-tagline"> Uxue Diez-Guiral</h2>
+<div>
+<p>
+<img src="http://www.gatai.eus/assets/img/uxue.jpg" alt="Uxue Diez-Guiral" class="author-image">
+Hizkuntzaren eta Literaturaren Didaktika saileko irakasle eta ikertzailea da Euskal Herriko Unibertsitatean (EHU). Hezkuntza Zientzietan Doktorea (EHU). 2024an aurkeztu zuen doktore-tesia, Euskal-eskoletan Bigarren Hezkuntzako ikasleen Komunikazio-Antsietate eta Komunikatzeko-Borandate prozesuetan generoa aztertzen (Cum Laude). Ingeles Ikasketetan (Ingeles Hizkuntzalaritzako aipamenarekin) graduatua da eta “Derrigorrezko Bigarren Hezkuntzako eta Batxilergoko, Lanbide Heziketako eta Hizkuntzen Irakaskuntzako” Masterra (USAL) eta “Master’s in Multilingualism and Education” (EHU) masterren bidez hizkuntzen irakaskuntzan espezializatua.
+</p>
+<p>
+DREAM (Donostia Research in Multilingualism) ikerketa taldeko kide da. Nazioarteko hainbat ikerketa eta proiektutan parte hartu du, hala nola Linguistically Sensitive Teaching in All Classrooms (LISTIAC). Nazio mailan, Translenguar Pedagógicamente en el Currículo (PeTransCur) eta Hizkuntza-Gaitasun Akademikoa eta Edukiaren Ulermena (HIGAEU) proiektuetan parte hartu du. Horrez gain, bi ikerketa proiekturen buru izan da. Batetik, Irungo LGTBI+ gazteen egoerak aztertu dituen ikerketa gidatu du, bestetik, Orereta eta Oarsoaldeko LGTBI+ pertsonen bizigarritasuna aztertu du. Nazioarteko hainbat kongresuetan parte hartu du eta University of Edinburgh-en egonaldia egin du.
+</p>
+<p>
+Bere ikerketa lerroak genero ikerketak, queer ikerketak eta hizkuntzaren didaktika uztartzen ditu. Hala, generoak eta identitateak hizkuntza gela barruan zein nerabezaroan duen eragina ikertzen ditu queer teorietan oinarritzen delarik. Bere ikergaien dibulgazioan ere aritu da hainbat podcast, irrati saio edota prentsa elkarrizketetan.
+</p>
+<b>ORCID ID</b>: <a href="https://orcid.org/0000-0001-6996-210X">https://orcid.org/0000-0001-6996-210X</a>
+</div>
+
+<hr>
+
+
 <h2 class="project-tagline">Iñigo Lopez-Gazpio</h2>
 <div>
 <p>

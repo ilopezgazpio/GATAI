@@ -137,6 +137,27 @@ Desde 2008 es profesora del Departamento de Didáctica de las Matemáticas, Cien
 <hr>
 
 
+<h2 class="project-tagline"> Uxue Diez-Guiral</h2>
+<div>
+<p>
+<img src="http://www.gatai.eus/assets/img/uxue.jpg" alt="Uxue Diez-Guiral" class="author-image">
+Imparte docencia e investiga en el Departamento de Didáctica de la Lengua y la Literatura en la Universidad del País Vasco (EHU/UPV). Se doctoró en Ciencias de la Educación por la EHU y presentó su tesis doctoral – ss (Cum Laude) – en 2024.
+Se graduó en Estudios Ingleses, con mención en Lingüística Inglesa, y posteriormente se especializó en la enseñanza de lenguas mediante el Máster en “Formación del Profesorado de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanza de Idiomas” (USAL) y el “Master’s in Multilingualism and Education” (EHU).
+</p>
+<p>
+Forma parte del grupo de investigación DREAM (Donostia Research in Multilingualism). Ha participado en diversos proyectos de investigación internacionales, como por ejemplo Linguistically Sensitive Teaching in All Classrooms (LISTIAC). A nivel estatal, ha trabajado en proyectos como Translenguar Pedagógicamente en el Currículo (PeTransCur) y Hizkuntza-Gaitasun Akademikoa eta Edukiaren Ulermena (HIGAEU). Además, ha dirigido dos proyectos de investigación: uno sobre la situación de las personas jóvenes LGTBI+ de Irun, y otro sobre la habitabilidad de las personas LGTBI+ en Orereta y la comarca de Oarsoaldea.
+Ha participado en numerosos congresos internacionales y ha realizado una estancia académica en la University of Edinburgh.
+</p>
+<p>
+Su línea de investigación combina los estudios de género, los estudios queer y la didáctica de la lengua. Así, analiza la influencia del género y la identidad en el aula de lenguas, basándose en teorías queer. También ha participado en la divulgación de sus investigaciones en diversos podcasts, programas de radio y entrevistas en prensa.
+</p>
+<b>ORCID ID</b>: <a href="https://orcid.org/0000-0001-6996-210X">https://orcid.org/0000-0001-6996-210X</a>
+</div>
+
+<hr>
+
+
+
 <h2 class="project-tagline">Iñigo Lopez-Gazpio</h2>
 <div>
 <p>
