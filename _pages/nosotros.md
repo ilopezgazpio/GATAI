@@ -157,6 +157,41 @@ Su línea de investigación combina los estudios de género, los estudios queer 
 <hr>
 
 
+<h2 class="project-tagline"> Alex Ibañez-Etxeberria </h2>
+<div>
+<p>
+<img src="http://www.gatai.eus/assets/img/alex_ibanez.jpg" alt="Alex Ibañez-Etxeberria" class="author-image">
+Catedrático de Universidad y director del Departamento de Didáctica de las Matemáticas, Ciencias Experimentales y Ciencias Sociales de la Universidad del País Vasco.
+</p>
+<p>
+En el ámbito de la investigación es Investigador Principal de la línea de Educación Patrimonial de GIPyPAC, Grupo de Investigación en Patrimonio y Paisajes Culturales de la Universidad del País Vasco, y de la red de excelencia Red14, Red de Investigación en Enseñanza de las Ciencias Sociales (2019-2021 y 2022-2024), que agrupa a 10 grupos de investigación de 8 universidades españolas, que acogen a 236 investigadores/as.
+</p>
+<p>
+Ha participado como ponente en varios congresos internacionales, así como estatales; y ha publicado sus trabajos en revistas de alto impacto recogidas en WoS y Scopus. Sus líneas de investigación se centran en la Educación Patrimonial y la Didáctica de las Ciencias Sociales, sobre las que lleva desarrollando su carrera académica durante los últimos años, trabajando en torno a las tecnologías digitales, la memoria histórica y la formación del profesorado en educación patrimonial.
+</p>
+<b>ORCID ID</b>: <a href="https://orcid.org/0000-0001-9495-5155">https://orcid.org/0000-0001-9495-5155</a>
+</div>
+
+<hr>
+
+
+<h2 class="project-tagline"> Leire Albas Ibeas </h2>
+<div>
+<p>
+<img src="http://www.gatai.eus/assets/img/LeireAlbas.jpg" alt="Leire Albas Ibeas" class="author-image">
+Es profesora del área de Ciencias Sociales de la Universidad del País Vasco (UPV/EHU) en el departamento de Didáctica de las Matemáticas, Ciencias Experimentales y Sociales. Graduada en Educación Primaria (UPV/EHU) y ha llevado a cabo el máster y tesis doctoral en el programa Psicodidáctica: Psicología de la Educación y Didácticas Específicas (UPV/EHU).
+</p>
+<p>
+Forma parte del grupo de investigación <a href="https://www.ehu.eus/es/web/enpresa/-/gipypac" target="_blank">GIPyPAC</a> (Grupo de Investigación en Patrimonio y Paisajes Culturales) que a su vez forma parte de la <a href="https://red14.net/" target="_blank" >Red14</a> (Red de investigación en enseñanza de las ciencias sociales). Su línea de investigación está basada en la Didáctica de las Ciencias Sociales, concretamente sobre la influencia de temas conflictivos o controvertidos en la formación inicial del profesorado. Ha realizado varias estancias en Argentina y Barcelona y ha participado en congresos internacionales. Ha publicado sus trabajos en varias revistas recogidas en Scopus y WoS.
+</p>
+<b>ORCID ID</b>: <a href="https://orcid.org/0000-0002-7240-9978">https://orcid.org/0000-0002-7240-9978</a>
+</div>
+
+<hr>
+
+
+
+
 
 <h2 class="project-tagline">Iñigo Lopez-Gazpio</h2>
 <div>
