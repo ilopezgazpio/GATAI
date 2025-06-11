@@ -167,6 +167,26 @@ Bere ikerketa lerroak genero ikerketak, queer ikerketak eta hizkuntzaren didakti
 <hr>
 
 
+<h2 class="project-tagline"> Alex Ibañez-Etxeberria </h2>
+<div>
+<p>
+<img src="http://www.gatai.eus/assets/img/alex_ibanez.jpg" alt="Alex Ibañez-Etxeberria" class="author-image">
+Unibertsitateko katedraduna eta Euskal Herriko Unibertsitateko Matematika, Zientzia Esperimental eta Gizarte Zientzien Didaktika Saileko zuzendaria.
+</p>
+<p>
+ Ikerketaren esparruan, GIPyPACen (Euskal Herriko Unibertsitateko Ondare eta Paisaia Kulturalen Ikerketa Taldea) eta Red14 bikaintasun-sareako (Gizarte Zientzien Irakaskuntzako Ikerketa Sarea) ikerlari nagusia izan da 2019-2021 eta 2022-2024 bitartean. Sare horrek espainiar estatuko 8 unibertsitatetako 10 ikerketa-talde biltzen ditu, zeintzuetan 236 ikertzailek parte hartzen duten.
+</p>
+<p>
+Hizlari gisa parte hartu du nazioarteko eta estatuko hainbat kongresutan, eta bere lanak WoS eta Scopusen jasotako inpaktu aldiko aldizkarietan argitaratu ditu. Bere ikerketa-ildoak Ondare Hezkuntzan eta Gizarte Zientzien Didaktikan oinarritzen dira, eta horien inguruan garatu da bere ibilbide akademikoa azken urtekotan; teknologia digitalen, memoria historikoaren eta irakasleen prestakuntzarako ondare-hezkuntzaren inguruko lanak eginez.
+</p>
+<b>ORCID ID</b>: <a href="https://orcid.org/0000-0001-9495-5155">https://orcid.org/0000-0001-9495-5155</a>
+</div>
+
+<hr>
+
+
+
+
 <h2 class="project-tagline">Iñigo Lopez-Gazpio</h2>
 <div>
 <p>
