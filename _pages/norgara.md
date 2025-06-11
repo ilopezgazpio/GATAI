@@ -185,6 +185,21 @@ Hizlari gisa parte hartu du nazioarteko eta estatuko hainbat kongresutan, eta be
 <hr>
 
 
+<h2 class="project-tagline"> Leire Albas Ibeas </h2>
+<div>
+<p>
+<img src="http://www.gatai.eus/assets/img/LeireAlbas.jpg" alt="Leire Albas Ibeas" class="author-image">
+Gizarte Zientzien arloko irakaslea da Euskal Herriko Unibertsitateko (EHU), Matematika, Zientzia Esperimental eta Gizarte Zientzien Didaktika sailean. Lehen Hezkuntzan graduatua (EHU) eta Psikodidaktika: Hezkuntzaren Psikologia eta Didaktika Espezifikoak programan (EHU) masterra eta doktorego tesia burutu ditu.
+</p>
+<p>
+<a href="https://www.ehu.eus/es/web/enpresa/-/gipypac" target="_blank">GIPyPAC</a> ikerketa taldeko kide da (Grupo de Investigación en Patrimonio y Paisajes Culturales), zeina aldi berean <a href="https://red14.net/" target="_blank" >Red14</a> Sarearen parte den (Red de investigación en enseñanza de las ciencias sociales). Bere ikerketa lerroa Gizarte Zientzien Didaktikan oinarriturik dago, hain zuzen ere irakasleen hasierako formakuntzan gai gatazkatsu edo eztabaidagarriek duten eraginaren inguruan. Honi lotuta, hainbat egonaldi egin ditu Argentinan eta Bartzelonan, eta nazioarte mailako kongresuetan ere parte hartu du. Scopus eta WoSen jasota dauden hainbat aldizkarietan argitaratu ditu bere lanak.
+</p>
+<b>ORCID ID</b>: <a href="https://orcid.org/0000-0002-7240-9978">https://orcid.org/0000-0002-7240-9978</a>
+</div>
+
+<hr>
+
+
 
 
 <h2 class="project-tagline">Iñigo Lopez-Gazpio</h2>
