@@ -3,8 +3,9 @@ layout: default
 title: GATAI
 permalink: /
 ---
-<b><i>GATAI</i></b> Euskal Herriko Unibertsitateko (UPV/EHU) hezkuntza berrikuntza proiektu bat da, IKDi<sup>3</sup> hezkuntza eredua jarraitzen duena (IKDi3 23-31).
-2023-2024 ikasturtean burutzen ari da Donostiako campuseko Hezkuntza, Filosofia eta Antropologia fakultatean, Magisteritzan (HEFA II).
+<b><i>GATAI</i></b> Euskal Herriko Unibertsitateko (UPV/EHU) hezkuntza berrikuntza proiektu bat da.
+2023-2024 ikasturtean burutzen hasi zen Donostiako campuseko Hezkuntza, Filosofia eta Antropologia fakultatean, Magisteritzan (HEFA II), unibertsitateko proiektu laguntzei esker (IKDi3 23-31).
+2025-2026an berrikuntza proiektu horren zabalpena burutzen ari gara (i3lab 25-02), ikasturtean zehar garatuko direlarik horri loturiko jarduera eta ekimen ezberdinak.
 Bertan parte hartzen dute Lehen Hezkuntza Gradua burutzen ari diren 3. mailako ikasleak.
 Bi irakasgai barnebiltzen dituen diziplinarteko proiektu bat da: Gizarte Zientziak eta beren didaktika II eta Hizkuntza eta Literaturaren Didaktika,
 bertako irakasleak proiektuko koordinatzaile direlarik (Ursula Luna eta Amaia Serrano-Mariezkurrena).
