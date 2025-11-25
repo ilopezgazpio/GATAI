@@ -6,6 +6,7 @@ permalink: /presentacion
 
 <b><i>GATAI</i></b> es un proyecto de innovación educativa de la Universidad del País Vasco (UPV/EHU) que sigue el modelo educativo IKDi<sup>3</sup> (IKDi3 23-31).
 Se ha puesto en marcha en el curso 2023-2024 en la Facultad de Educación, Filosofía y Antropología del campus de San Sebastián, en Magisterio (HEFA II).
+En 2025-2026 estamos llevando a cabo la ampliación de ese proyecto de innovación (i3lab 25-02), desarrollándose a lo largo del curso diversas actividades e iniciativas relacionadas con el mismo.
 En él participan los alumnos de 3º curso del Grado en Educación Primaria. Se trata de un proyecto interdisciplinar que engloba dos asignaturas:
 las Ciencias Sociales y su didáctica II y la Didáctica de la Lengua y la Literatura, siendo sus profesoras las coordinadoras del proyecto
 (Ursula Luna y Amaia Serrano-Mariezkurrena).
