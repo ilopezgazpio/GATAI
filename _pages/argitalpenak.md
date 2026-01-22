@@ -14,7 +14,7 @@ permalink: /argitalpenak
       <i>Uso de álbumes ilustrados para trabajar la memoria histórica con el profesorado en formación.</i>
       II. Nazioarteko Kongresua. Memoria duen Historia Hezkuntzan, Iruñea, Nafarroa. 
         <a href="https://congresohistoriaconmemoriaenlaeducacion.org/wp-content/uploads/2024/09/amaia-serrano-ursula-luna-berta-echeberria-naiara-vicent-uso-de-albumes-ilustrados-para-trabajar-la-memoria-historica.pdf">
-            [Enlace] 
+            [Esteka] 
       </a>
     </p>
   </div>
