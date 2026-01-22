@@ -12,7 +12,10 @@ permalink: /argitalpenak
     <p>
       Luna, U., Serrano-Mariezkurrena, A., Echeberria, B. eta Vicent, N. (2024, azaroak 14-16).
       <i>Uso de álbumes ilustrados para trabajar la memoria histórica con el profesorado en formación.</i>
-      II. Nazioarteko Kongresua. Memoria duen Historia Hezkuntzan, Iruñea, Nafarroa
+      II. Nazioarteko Kongresua. Memoria duen Historia Hezkuntzan, Iruñea, Nafarroa. 
+        <a href="https://congresohistoriaconmemoriaenlaeducacion.org/wp-content/uploads/2024/09/amaia-serrano-ursula-luna-berta-echeberria-naiara-vicent-uso-de-albumes-ilustrados-para-trabajar-la-memoria-historica.pdf">
+            [Enlace] 
+      </a>
     </p>
   </div>
 
@@ -23,13 +26,15 @@ permalink: /argitalpenak
     </p>
   </div>
 
+  <!--
   <div class="publication">
-    <!--<img src="http://www.gatai.eus/assets/img/paper_fontes.jpg" alt="paper_fontes" class="publication-image">-->
+    <img src="http://www.gatai.eus/assets/img/paper_fontes.jpg" alt="paper_fontes" class="publication-image">
     <p>
       Serrano-Mariezkurrena, A., Luna, U., Permach, N., & Echeberria, B. (2024). Memoriaren arrastoa euskal HGLn. <i>Gerrak ez du izenik albumaren azterketa. Fontes Linguae Vasconum</i>, (137), 137-162.
       <a href="https://doi.org/10.35462/flv137.6" target="_blank">https://doi.org/10.35462/flv137.6</a>
     </p>
   </div>
+  -->
 
   <div class="publication">
     <p>
