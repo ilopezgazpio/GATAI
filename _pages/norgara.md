@@ -203,7 +203,7 @@ Gizarte Zientzien arloko irakaslea da Euskal Herriko Unibertsitateko (EHU), Mate
 <h2 class="project-tagline"> Lorea Azpeitia </h2>
 <div>
 <p>
-<img src="" alt="Lorea Azpeitia" class="author-image">
+<img src="https://www.gatai.eus/assets/img/LoreaAzpeitia.jpg" alt="Lorea Azpeitia" class="author-image">
 Lorea Azpeitia doktorea da Euskal Literatura eta Kritika Feministaren alorrean eta EHUko irakaslea Hezkuntza, Filosofia eta Antropologia Fakultatean. GATAI proiektuko partaide da Hizkuntza eta Literatura irakasgaiko irakasle gisa.
 </p>
 <p>
