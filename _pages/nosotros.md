@@ -190,8 +190,24 @@ Forma parte del grupo de investigación <a href="https://www.ehu.eus/es/web/enpr
 <hr>
 
 
+<h2 class="project-tagline"> Lorea Azpeitia </h2>
+<div>
+<p>
+<img src="https://www.gatai.eus/assets/img/LoreaAzpeitia.jpg" alt="Lorea Azpeitia" class="author-image">
+Lorea Azpeitia es doctora en Literatura Vasca y Crítica Feminista y profesora en la Facultad de Educación, Filosofía y Antropología de la UPV/EHU. Forma parte del proyecto GATAI como profesora de la asignatura Lengua y Literatura.
+</p>
+<p>
+En su tesis, <i>La memoria del conflicto armado en la narrativa vasca contemporánea a la luz de los estudios de género</i> (UPV/EHU, 2024), analizó las representaciones literarias de género de las mujeres miembros de ETA, cuestionando los discursos hegemónicos en torno al conflicto armado vasco y, sobre todo, poniendo en duda el relato patriarcal de la memoria. La tesis recibió el Premio Extraordinario de la UPV/EHU en el ámbito de las Artes y las Humanidades.
+</p>
+
+<p>
+Ha colaborado con diversos grupos y proyectos de investigación, como el Grupo de Investigación en Antropología Feminista (AFIT) de la Universidad del País Vasco, o el proyecto “Portal de recursos acadèmics per abordar críticament la literatura que representa les violències masclistes”, dirigido por la catedrática Teresa Iribarren y financiado por el Consell Interuniversitari de Catalunya. En esta línea, en el ámbito de la innovación educativa, su objetivo es acercar al aula contenidos relacionados con la memoria histórica y las representaciones literarias de género, con el fin de ayudar al alumnado a desarrollar una capacidad crítica y ofrecerle herramientas para descodificar las relaciones de poder subyacentes en los textos.
+</p>
+<b>ORCID ID</b>: <a href="https://orcid.org/0000-0002-7240-9978">https://orcid.org/0000-0002-7240-9978</a>
+</div>
 
 
+</hr>
 
 <h2 class="project-tagline">Iñigo Lopez-Gazpio</h2>
 <div>
