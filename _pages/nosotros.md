@@ -207,7 +207,7 @@ Ha colaborado con diversos grupos y proyectos de investigación, como el Grupo d
 </div>
 
 
-</hr>
+<hr>
 
 <h2 class="project-tagline">Iñigo Lopez-Gazpio</h2>
 <div>
