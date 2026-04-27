@@ -200,7 +200,23 @@ Gizarte Zientzien arloko irakaslea da Euskal Herriko Unibertsitateko (EHU), Mate
 <hr>
 
 
+<h2 class="project-tagline"> Lorea Azpeitia </h2>
+<div>
+<p>
+<img src="" alt="Lorea Azpeitia" class="author-image">
+Lorea Azpeitia doktorea da Euskal Literatura eta Kritika Feministaren alorrean eta EHUko irakaslea Hezkuntza, Filosofia eta Antropologia Fakultatean. GATAI proiektuko partaide da Hizkuntza eta Literatura irakasgaiko irakasle gisa.
+</p>
+<p>
+<i>Gatazka armatuaren oroimena euskarazko narratiba garaikidean genero ikasketen argitan</i> (EHU, 2024) tesian, emakumezko etakideen genero-irudikapen literarioak aztertu zituen, euskal gatazka armatuaren inguruko diskurtso hegemonikoak auzitan jarriz eta, batez ere, memoriaren kontakizun patriarkala zalantzan jarriz. Tesiak EHUko Arteak eta Giza zientziak alorreko Sari Berezia jaso zuen.
+</p>
 
+<p>
+Hainbat ikerketa talderekin eta proiekturekin elkarlanean aritu da, esaterako, Euskal Herriko Unibertsitateko Antropologia Feminista Ikerketa Taldearekin (AFIT) edo Teresa Iribarren katedradunak zuzendutako eta Consell Interuniversitari de Catalunyak finantzatutako “Portal de recursos acadèmics per abordabordcriticament la literatura que representa les violències masclistes” proiektuarekin. Ildo horretatik, hezkuntza-berrikuntzaren esparruan, memoria historikoarekin eta genero-irudikapen literarioekin zerikusia duten edukiak ikasgelara hurbiltzea du helburu, ikasleei gaitasun kritikoa garatzen lagundu eta  testuen azpian dauden botere-harremanak deskodetzeko tresnak eskaintzeko asmoz.
+</p>
+<b>ORCID ID</b>: <a href="https://orcid.org/0000-0002-7240-9978">https://orcid.org/0000-0002-7240-9978</a>
+</div>
+
+<hr>
 
 <h2 class="project-tagline">Iñigo Lopez-Gazpio</h2>
 <div>
